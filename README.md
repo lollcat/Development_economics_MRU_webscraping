@@ -1,5 +1,7 @@
 # Development Economics Course Links
 
+A summary of the links posted for the development economics course at https://mru.org/development-economics
+
 ## Introduction
 
 <details> 
@@ -25,16 +27,16 @@
 
 ### how-persistent-prosperity-optional
 
-- How Deep are the Roots of Economic Development   ---->  https://www.nber.org/papers/w18130.pdf
+- How Deep are the Roots of Economic DevelopmentÂ   ---->  https://www.nber.org/papers/w18130.pdf
 - Biogeography and Long Run Economic Development  ---->  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=606184
 - Was the Wealth of Nations Determined in 1000 B.C.  ---->  https://www.nber.org/papers/w12657.pdf
-- Early Starts, Reversals and Catchup in the Process of Economic Development   ---->  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.388.2442&rep=rep1&type=pdf
+- Early Starts, Reversals and Catchup in the Process of Economic DevelopmentÂ   ---->  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.388.2442&rep=rep1&type=pdf
 
 
 ### geography-and-development-trade
 
 - The Wind of Change: Maritime Technology, Trade, and Economic Development  ---->  https://www.aeaweb.org/articles?id=10.1257/aer.20140832
-- The Geography of Poverty and Wealth   ---->  https://www.researchgate.net/publication/12096409_The_Geography_of_Poverty_and_Wealth
+- The Geography of Poverty and WealthÂ   ---->  https://www.researchgate.net/publication/12096409_The_Geography_of_Poverty_and_Wealth
 
 
 ### geography-and-development-disease
@@ -57,44 +59,44 @@
 
 ### industry-builds-agriculture
 
-- Agrarian Roots of Industrial Growth   ---->  http://www.institutions-africa.org/trackingdevelopment_archived/resources/docs/Henley-agrarianroots-revised-AbsenFig.pdf
-- The East Asian Miracle   ---->  http://documents.worldbank.org/curated/en/975081468244550798/pdf/multi-page.pdf
+- Agrarian Roots of Industrial GrowthÂ   ---->  http://www.institutions-africa.org/trackingdevelopment_archived/resources/docs/Henley-agrarianroots-revised-AbsenFig.pdf
+- The East Asian MiracleÂ   ---->  http://documents.worldbank.org/curated/en/975081468244550798/pdf/multi-page.pdf
 
 
 ### green-revolution-0
 
-- Green Revolution   ---->  https://www.google.com/search?hl=en&biw=1280&bih=606&ei=P5n1XKnoGOOOgge6p4O4DA&q=Green+Revolution&oq=Green+Revolution&gs_l=psy-ab.3..0i67j0l6j0i67l2j0.21949.25116..25760...0.0..0.116.311.2j1......0....2j1..gws-wiz.......0i71j0i7i30.nNZV3VfY4ko
-- Norman Borlaug   ---->  https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLLAoLDNgBAAS_wMA&q=norman+borlaug&rlz=1C5CHFA_enUS647US647&oq=Norman+Borlaug&aqs=chrome.0.46j69i57j0l4.3398j0j7&sourceid=chrome&ie=UTF-8
-- Green Revolution India   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=green+revolution+india&oq=green+revolution+india&gs_l=hp.3..0l4.14977.18273.7.18682.22.22.0.0.0.0.407.3997.1j16j4j0j1.22.0.les%3Bcpsugrpq2..0.0...1.1.20R6tgZVTvU&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- Green Revolution Pakistan   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=green+revolution+pakistan&oq=green+revolution+pakistan&gs_l=hp.3..0j0i30l3.22720.26274.8.26569.13.13.0.0.0.1.337.1752.5j6j1j1.13.0.les%3Bcpsugrpq2..0.0...1.1.1PUCblqGMQo&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Green RevolutionÂ   ---->  https://www.google.com/search?hl=en&biw=1280&bih=606&ei=P5n1XKnoGOOOgge6p4O4DA&q=Green+Revolution&oq=Green+Revolution&gs_l=psy-ab.3..0i67j0l6j0i67l2j0.21949.25116..25760...0.0..0.116.311.2j1......0....2j1..gws-wiz.......0i71j0i7i30.nNZV3VfY4ko
+- Norman BorlaugÂ   ---->  https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLLAoLDNgBAAS_wMA&q=norman+borlaug&rlz=1C5CHFA_enUS647US647&oq=Norman+Borlaug&aqs=chrome.0.46j69i57j0l4.3398j0j7&sourceid=chrome&ie=UTF-8
+- Green Revolution IndiaÂ   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=green+revolution+india&oq=green+revolution+india&gs_l=hp.3..0l4.14977.18273.7.18682.22.22.0.0.0.0.407.3997.1j16j4j0j1.22.0.les%3Bcpsugrpq2..0.0...1.1.20R6tgZVTvU&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Green Revolution PakistanÂ   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=green+revolution+pakistan&oq=green+revolution+pakistan&gs_l=hp.3..0j0i30l3.22720.26274.8.26569.13.13.0.0.0.1.337.1752.5j6j1j1.13.0.les%3Bcpsugrpq2..0.0...1.1.1PUCblqGMQo&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
 
 
 ### micronutrients
 
-- Micronutrients   ---->  https://www.google.com/search?q=micronutrients&oq=mic&aqs=chrome.0.69i59j69i60l2j69i59j69i60j69i65.1818j0j9&sourceid=chrome&ie=UTF-8
+- MicronutrientsÂ   ---->  https://www.google.com/search?q=micronutrients&oq=mic&aqs=chrome.0.69i59j69i60l2j69i59j69i60j69i65.1818j0j9&sourceid=chrome&ie=UTF-8
 - Micronutrients Copenhagen Consensus  ---->  https://www.google.com/search?hl=en&tbo=d&spell=1&q=micronutrients+copenhagen+consensus&sa=X&ei=Wl2dUNjaHbLO0QHskYGQBg&ved=0CCsQvwUoAA&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
 - Evidence for Multiple Micronutrient Effects Based on randomized Controlled Trials and Meta Analyses in Developing Countires  ---->  https://academic.oup.com/jn/article/142/1/173S/4630773
 
 
 ### productivity-decline
 
-- Food and Agriculture Organization of the United Nations   ---->  http://www.fao.org/worldfoodsituation/wfs-home/foodpricesindex/en/
-- United States Department of Agriculture   ---->  https://www.nass.usda.gov/
-- Declining Crop Yields   ---->  https://www.google.com/search?ei=U9P1XJy0Jci7ggfst6-4BQ&q=DECLINING+CROP+YIELDS&oq=DECLING+CROP+YEILDS&gs_l=psy-ab.3...0.0..933094...0.0..0.0.0.......0......gws-wiz.AC1PgAeRJKo
-- Agricultural Research Productivity and Food Commodity Prices   ---->  https://aglifesciences.tamu.edu/rootbiome/wp-content/uploads/sites/38/2015/06/2009-Alston-et-al-Ag-Res-Product-and-Food-Prices-in-Long-Run-Science-325_1209.full_.pdf
+- Food and Agriculture Organization of the United NationsÂ   ---->  http://www.fao.org/worldfoodsituation/wfs-home/foodpricesindex/en/
+- United States Department of AgricultureÂ   ---->  https://www.nass.usda.gov/
+- Declining Crop YieldsÂ   ---->  https://www.google.com/search?ei=U9P1XJy0Jci7ggfst6-4BQ&q=DECLINING+CROP+YIELDS&oq=DECLING+CROP+YEILDS&gs_l=psy-ab.3...0.0..933094...0.0..0.0.0.......0......gws-wiz.AC1PgAeRJKo
+- Agricultural Research Productivity and Food Commodity PricesÂ   ---->  https://aglifesciences.tamu.edu/rootbiome/wp-content/uploads/sites/38/2015/06/2009-Alston-et-al-Ag-Res-Product-and-Food-Prices-in-Long-Run-Science-325_1209.full_.pdf
 
 
 ### gmos
 
-- National Research Council   ---->  https://www.google.com/search?q=national+research+council&aq=f&oq=national+research+council&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#aq=f
-- Pamela Ronald   ---->  https://www.google.com/search?q=PAMELA+RONALD&aq=f&oq=PAMELA+RONALD&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&tbo=d&sclient=psy-ab&q=PAMELA+RONALD+tommorrows+table&oq=PAMELA+RONALD+tommorrows+table&gs_l=serp.3..0i13.9743.12717.0.12759.17.17.0.0.0.0.298.2616.0j13j3.16.0.les%3Bcpsugrpq2..0.0...1.1.-q9To1FO8dE&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&fp=97283d9747b20204&bpcl=38093640&biw=1280&bih=794
+- National Research CouncilÂ   ---->  https://www.google.com/search?q=national+research+council&aq=f&oq=national+research+council&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#aq=f
+- Pamela RonaldÂ   ---->  https://www.google.com/search?q=PAMELA+RONALD&aq=f&oq=PAMELA+RONALD&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&tbo=d&sclient=psy-ab&q=PAMELA+RONALD+tommorrows+table&oq=PAMELA+RONALD+tommorrows+table&gs_l=serp.3..0i13.9743.12717.0.12759.17.17.0.0.0.0.298.2616.0j13j3.16.0.les%3Bcpsugrpq2..0.0...1.1.-q9To1FO8dE&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&fp=97283d9747b20204&bpcl=38093640&biw=1280&bih=794
 - Gregory Conko  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=writing+of+gregory+conko&oq=writing+of+gregory+conko&gs_l=hp.3...1978.3020.13.3189.6.5.1.0.0.0.77.339.5.5.0.les%3Bcpsugrpq2..0.0...1.1.WJ5M8PfFmy4&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- Global Status of Commercialized Biotech/GM Crops   ---->  http://www.isaaa.org/resources/publications/briefs/53/
+- Global Status of Commercialized Biotech/GM CropsÂ   ---->  http://www.isaaa.org/resources/publications/briefs/53/
 
 
 ### sharecropping
 
-- Economics of Sharecropping   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=economics+of+sharecropping+&oq=economics+of+sharecropping+&gs_l=hp.3..0.3914.10173.0.10265.39.34.5.0.0.0.223.2620.27j5j1.33.0.les%3Bcpsugrpq2..2.0...1.1.xYw29XIqMWY&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Economics of SharecroppingÂ   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=economics+of+sharecropping+&oq=economics+of+sharecropping+&gs_l=hp.3..0.3914.10173.0.10265.39.34.5.0.0.0.223.2620.27j5j1.33.0.les%3Bcpsugrpq2..2.0...1.1.xYw29XIqMWY&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
 
 
 ### china%E2%80%99s-agricultural-reforms
@@ -233,7 +235,7 @@
 ### trust-and-economic-growth
 
 - "Trust and Growth"   ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=trust+and+growth&oq=trust+and+growth&gs_l=hp.3..0j0i30l3.451.3251.0.3473.20.18.2.0.0.0.300.2447.4j12j1j1.18.0.les%3Bcpsugrpq2..0.0...1.1.L4vR9R37CoU&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- Christian Bjørnskov "How Does Social Trust Affect Economic Growth"   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=christian+bj%C3%B8rnskov+%22how+does+social+trust+affect+economic+growth%22&oq=christian+bj%C3%B8rnskov+%22how+does+social+trust+affect+economic+growth%22&gs_l=hp.3...8013.22492.2.22646.49.48.1.0.0.4.549.7132.12j28j6j1j0j1.48.0.les%3Bcpsugrpq2..0.0...1.1.lCxZmp8pJ30&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Christian BjÃ¸rnskov "How Does Social Trust Affect Economic Growth"   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=christian+bj%C3%B8rnskov+%22how+does+social+trust+affect+economic+growth%22&oq=christian+bj%C3%B8rnskov+%22how+does+social+trust+affect+economic+growth%22&gs_l=hp.3...8013.22492.2.22646.49.48.1.0.0.4.549.7132.12j28j6j1j0j1.48.0.les%3Bcpsugrpq2..0.0...1.1.lCxZmp8pJ30&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
 
 
 ### solow-model-brief-no-math
@@ -285,7 +287,7 @@
 ### solow-model-2-%E2%80%93-comparative-statics
 
 - Play with the factors in the Solow model using this interactive Wolfram tool.   ---->  http://demonstrations.wolfram.com/SimpleSolowModel/
-- Alex Tabarrok - How Ideas Trump Crises   ---->  https://www.ted.com/talks/alex_tabarrok_foresees_economic_growth
+- Alex Tabarrok - How Ideas Trump CrisesÂ   ---->  https://www.ted.com/talks/alex_tabarrok_foresees_economic_growth
 - Alex Tabarrok's "  ---->  https://www.amazon.com/gp/product/B006C1HX24/ref=as_li_tf_tl?ie=UTF8&tag=marginalrevol-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B006C1HX24
 
 
@@ -311,14 +313,14 @@
 
 - Tyler Cowen and Alex Tabbarrok's "  ---->  https://www.amazon.com/Modern-Principles-Microeconomics-Tyler-Cowen/dp/1429278412
 - "   ---->  https://slate.com/culture/1998/06/monopoly-shopping.html
-- Steven Landsburg’s “Monopoly Shopping”   ---->  https://www.amazon.com/Launching-Innovation-Renaissance-Market-ebook/dp/B006C1HX24/ref=sr_1_6?ie=UTF8&qid=1322682943&sr=8-6/marginalrevol-20
-- Alex Tabbarrok's “Launching the Innovation Renaissance”   ---->  https://web.stanford.edu/~chadj/links500.pdf
-- Charles Jones’s “Intermediate Goods and Weak Links in the Theory of Economic Development”  ---->  http://faculty.wcas.northwestern.edu/~lchrist/papers/aer.pdf
+- Steven LandsburgÂ’s Â“Monopoly ShoppingÂ”   ---->  https://www.amazon.com/Launching-Innovation-Renaissance-Market-ebook/dp/B006C1HX24/ref=sr_1_6?ie=UTF8&qid=1322682943&sr=8-6/marginalrevol-20
+- Alex Tabbarrok's Â“Launching the Innovation RenaissanceÂ”   ---->  https://web.stanford.edu/~chadj/links500.pdf
+- Charles JonesÂ’s Â“Intermediate Goods and Weak Links in the Theory of Economic DevelopmentÂ”  ---->  http://faculty.wcas.northwestern.edu/~lchrist/papers/aer.pdf
 - Tyler Cowen and Alex Tabbarrok's "  ---->  https://www.amazon.com/Modern-Principles-Microeconomics-Tyler-Cowen/dp/1429278412
 - "   ---->  https://slate.com/culture/1998/06/monopoly-shopping.html
-- Steven Landsburg’s “Monopoly Shopping”   ---->  https://www.amazon.com/Launching-Innovation-Renaissance-Market-ebook/dp/B006C1HX24/ref=sr_1_6?ie=UTF8&qid=1322682943&sr=8-6/marginalrevol-20
-- Alex Tabbarrok's “Launching the Innovation Renaissance”   ---->  https://web.stanford.edu/~chadj/links500.pdf
-- Charles Jones’s “Intermediate Goods and Weak Links in the Theory of Economic Development”  ---->  http://faculty.wcas.northwestern.edu/~lchrist/papers/aer.pdf
+- Steven LandsburgÂ’s Â“Monopoly ShoppingÂ”   ---->  https://www.amazon.com/Launching-Innovation-Renaissance-Market-ebook/dp/B006C1HX24/ref=sr_1_6?ie=UTF8&qid=1322682943&sr=8-6/marginalrevol-20
+- Alex Tabbarrok's Â“Launching the Innovation RenaissanceÂ”   ---->  https://web.stanford.edu/~chadj/links500.pdf
+- Charles JonesÂ’s Â“Intermediate Goods and Weak Links in the Theory of Economic DevelopmentÂ”  ---->  http://faculty.wcas.northwestern.edu/~lchrist/papers/aer.pdf
 
  </details> 
 
@@ -330,41 +332,41 @@
 
 ### productivity-firms
 
-- Bloom, Mahajan, McKenzie, Roberts “Why do Firms in Developing Countries Have Low Productivity”?  ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Bloom%2C+Mahajan%2C+McKenzie%2C+Roberts+%E2%80%9CWhy+do+Firms+in+Developing+Countries+Have+Low+Productivity%E2%80%9D%3F&oq=Bloom%2C+Mahajan%2C+McKenzie%2C+Roberts+%E2%80%9CWhy+do+Firms+in+Developing+Countries+Have+Low+Productivity%E2%80%9D%3F&gs_l=hp.3...1950.1950.0.2448.1.1.0.0.0.0.124.124.0j1.1.0.les%3Bcpsugrpq2..0.0...1.2.HemSEdRxVmc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
-- Bloom, Sadun, Van Reenen, “The Organization of Firms across countries”  ---->  http://cep.lse.ac.uk/pubs/download/dp0937.pdf
+- Bloom, Mahajan, McKenzie, Roberts Â“Why do Firms in Developing Countries Have Low ProductivityÂ”?  ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Bloom%2C+Mahajan%2C+McKenzie%2C+Roberts+%E2%80%9CWhy+do+Firms+in+Developing+Countries+Have+Low+Productivity%E2%80%9D%3F&oq=Bloom%2C+Mahajan%2C+McKenzie%2C+Roberts+%E2%80%9CWhy+do+Firms+in+Developing+Countries+Have+Low+Productivity%E2%80%9D%3F&gs_l=hp.3...1950.1950.0.2448.1.1.0.0.0.0.124.124.0j1.1.0.les%3Bcpsugrpq2..0.0...1.2.HemSEdRxVmc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
+- Bloom, Sadun, Van Reenen, Â“The Organization of Firms across countriesÂ”  ---->  http://cep.lse.ac.uk/pubs/download/dp0937.pdf
 
 
 ### productivity-and-firm-size
 
-- Braguinsky, Branstetter, Regateiro, “The Incredible Shrinking Portugeuese Firm”   ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Braguinsky%2C+Branstetter%2C+Regateiro%2C+%E2%80%9CThe+Incredible+Shrinking+Portugeuese+Firm%E2%80%9D&oq=Braguinsky%2C+Branstetter%2C+Regateiro%2C+%E2%80%9CThe+Incredible+Shrinking+Portugeuese+Firm%E2%80%9D&gs_l=hp.3...2600.2600.0.3581.1.1.0.0.0.0.207.207.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.RKjybyRmFNI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
+- Braguinsky, Branstetter, Regateiro, Â“The Incredible Shrinking Portugeuese FirmÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Braguinsky%2C+Branstetter%2C+Regateiro%2C+%E2%80%9CThe+Incredible+Shrinking+Portugeuese+Firm%E2%80%9D&oq=Braguinsky%2C+Branstetter%2C+Regateiro%2C+%E2%80%9CThe+Incredible+Shrinking+Portugeuese+Firm%E2%80%9D&gs_l=hp.3...2600.2600.0.3581.1.1.0.0.0.0.207.207.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.RKjybyRmFNI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
 
 
 ### calculation-profit-and-loss
 
-- “Socialist calculation debate”  ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Braguinsky%2C+Branstetter%2C+Regateiro%2C+%E2%80%9CThe+Incredible+Shrinking+Portugeuese+Firm%E2%80%9D&oq=Braguinsky%2C+Branstetter%2C+Regateiro%2C+%E2%80%9CThe+Incredible+Shrinking+Portugeuese+Firm%E2%80%9D&gs_l=hp.3...2600.2600.0.3581.1.1.0.0.0.0.207.207.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.RKjybyRmFNI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
+- Â“Socialist calculation debateÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Braguinsky%2C+Branstetter%2C+Regateiro%2C+%E2%80%9CThe+Incredible+Shrinking+Portugeuese+Firm%E2%80%9D&oq=Braguinsky%2C+Branstetter%2C+Regateiro%2C+%E2%80%9CThe+Incredible+Shrinking+Portugeuese+Firm%E2%80%9D&gs_l=hp.3...2600.2600.0.3581.1.1.0.0.0.0.207.207.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.RKjybyRmFNI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
 
 
 ### industrial-policy-theory
 
-- Howard Pack and Kamal Saggi “Is There a Case for Industrial Policy”   ---->  https://www.google.com/search?q=Howard+Pack+and+Kamal+Saggi+%E2%80%9CIs+There+a+Case+for+Industrial+Policy%E2%80%9D&oq=Howard+Pack+and+Kamal+Saggi+%E2%80%9CIs+There+a+Case+for+Industrial+Policy%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8
-- Harrison and Rodriguez-clare, “Trade, Foreign Investment, and Industrial Policy for Developing Countries”  ---->  https://www.google.com/search?q=Harrison+and+Rodriguez-clare%2C+%E2%80%9CTrade%2C+Foreign+Investment%2C+and+Industrial+Policy+for+Developing+Countries%E2%80%9D&oq=Harrison+and+Rodriguez-clare%2C+%E2%80%9CTrade%2C+Foreign+Investment%2C+and+Industrial+Policy+for+Developing+Countries%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8
+- Howard Pack and Kamal Saggi Â“Is There a Case for Industrial PolicyÂ”   ---->  https://www.google.com/search?q=Howard+Pack+and+Kamal+Saggi+%E2%80%9CIs+There+a+Case+for+Industrial+Policy%E2%80%9D&oq=Howard+Pack+and+Kamal+Saggi+%E2%80%9CIs+There+a+Case+for+Industrial+Policy%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8
+- Harrison and Rodriguez-clare, Â“Trade, Foreign Investment, and Industrial Policy for Developing CountriesÂ”  ---->  https://www.google.com/search?q=Harrison+and+Rodriguez-clare%2C+%E2%80%9CTrade%2C+Foreign+Investment%2C+and+Industrial+Policy+for+Developing+Countries%E2%80%9D&oq=Harrison+and+Rodriguez-clare%2C+%E2%80%9CTrade%2C+Foreign+Investment%2C+and+Industrial+Policy+for+Developing+Countries%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8
 
 
 ### industrial-policy-evidence
 
-- Robert Wade “  ---->  https://www.google.com/search?q=Robert+Wade+%E2%80%9CGoverning+the+Market%22&aq=f&oq=Robert+Wade+%E2%80%9CGoverning+the+Market%22&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8
+- Robert Wade Â“  ---->  https://www.google.com/search?q=Robert+Wade+%E2%80%9CGoverning+the+Market%22&aq=f&oq=Robert+Wade+%E2%80%9CGoverning+the+Market%22&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8
 - "  ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Harrison+and+Rodriguez-clare%2C+%E2%80%9CTrade%2C+Foreign+Investment%2C+and+Industrial+Policy+for+Developing+Countries%E2%80%9D++&oq=Harrison+and+Rodriguez-clare%2C+%E2%80%9CTrade%2C+Foreign+Investment%2C+and+Industrial+Policy+for+Developing+Countries%E2%80%9D++&gs_l=hp.3...1964.1964.0.2565.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.1...1.2.1DMHVygYIvA&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
 
 
 ### conditional-convergence
 
-- Dani Rodrick “The Future of Economic Convergence”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dani+Rodrick+%E2%80%9Ceconomic+convergence%E2%80%9D&oq=Dani+Rodrick+%E2%80%9Ceconomic+convergence%E2%80%9D&gs_l=hp.12..0i8i13i30j0i8i30.141641.141641.2.142525.1.1.0.0.0.0.102.102.0j1.1.0.les%3Bcpsugrpq2..0.0...1.2.6WzAFRKKw4M&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
-- Dani Rodrick “conditional convergence”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dani+rodrick+%E2%80%9Cconditional+convergence%E2%80%9D&oq=Dani+rodrick+%E2%80%9Cconditional+convergence%E2%80%9D&gs_l=hp.12...43881.43881.1.44640.1.1.0.0.0.0.98.98.1.1.0.les%3Bcpsugrpq2..0.0...1.2.9otYyS2OFy8&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
+- Dani Rodrick Â“The Future of Economic ConvergenceÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dani+Rodrick+%E2%80%9Ceconomic+convergence%E2%80%9D&oq=Dani+Rodrick+%E2%80%9Ceconomic+convergence%E2%80%9D&gs_l=hp.12..0i8i13i30j0i8i30.141641.141641.2.142525.1.1.0.0.0.0.102.102.0j1.1.0.les%3Bcpsugrpq2..0.0...1.2.6WzAFRKKw4M&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
+- Dani Rodrick Â“conditional convergenceÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dani+rodrick+%E2%80%9Cconditional+convergence%E2%80%9D&oq=Dani+rodrick+%E2%80%9Cconditional+convergence%E2%80%9D&gs_l=hp.12...43881.43881.1.44640.1.1.0.0.0.0.98.98.1.1.0.les%3Bcpsugrpq2..0.0...1.2.9otYyS2OFy8&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=37643589&biw=1280&bih=794&cad=h
 
 
 ### local-monopoly-power
 
-- Tyler Cowen’s “  ---->  https://www.amazon.com/Markets-Cultural-Voices-Economics-Cognition/dp/047206889X
+- Tyler CowenÂ’s Â“  ---->  https://www.amazon.com/Markets-Cultural-Voices-Economics-Cognition/dp/047206889X
 
  </details> 
 
@@ -376,44 +378,44 @@
 
 ### sources-comparative-advantage
 
-- Romalis' “Factor proportions and the Structure of Commodity Trade”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Romalis:.+%E2%80%9CFactor+proportions+and+the+Structure+of+Commodity+Trade%E2%80%9D&oq=Romalis:.+%E2%80%9CFactor+proportions+and+the+Structure+of+Commodity+Trade%E2%80%9D&gs_l=hp.3...167757.170768.0.171018.2.2.0.0.0.0.207.400.0j1j1.2.0.les%3Bcpsugrpq2..0.0...1.1j2.tMTwT7JQ8e8&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- Paul Krugman’s Nobel Prize Lecture   ---->  https://www.nobelprize.org/mediaplayer/?id=1072
-- Cunat and Melitz's “Volatility, Labor Market Flexibility and the Pattern of Comparative Advantage   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%A2%09Cunat+and+Melitz:+%E2%80%9CVolatility%2C+Labor+Market+Flexibility+and+the+Pattern+of+Comparative+Advantage&oq=%E2%80%A2%09Cunat+and+Melitz:+%E2%80%9CVolatility%2C+Labor+Market+Flexibility+and+the+Pattern+of+Comparative+Advantage&gs_l=hp.12...32499.32499.1.33197.1.1.0.0.0.0.330.330.3-1.1.0.les%3Bcpsugrpq2..0.0...1.2.zlJ-XISuQXE&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Romalis' Â“Factor proportions and the Structure of Commodity TradeÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Romalis:.+%E2%80%9CFactor+proportions+and+the+Structure+of+Commodity+Trade%E2%80%9D&oq=Romalis:.+%E2%80%9CFactor+proportions+and+the+Structure+of+Commodity+Trade%E2%80%9D&gs_l=hp.3...167757.170768.0.171018.2.2.0.0.0.0.207.400.0j1j1.2.0.les%3Bcpsugrpq2..0.0...1.1j2.tMTwT7JQ8e8&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Paul KrugmanÂ’s Nobel Prize Lecture   ---->  https://www.nobelprize.org/mediaplayer/?id=1072
+- Cunat and Melitz's Â“Volatility, Labor Market Flexibility and the Pattern of Comparative Advantage   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%A2%09Cunat+and+Melitz:+%E2%80%9CVolatility%2C+Labor+Market+Flexibility+and+the+Pattern+of+Comparative+Advantage&oq=%E2%80%A2%09Cunat+and+Melitz:+%E2%80%9CVolatility%2C+Labor+Market+Flexibility+and+the+Pattern+of+Comparative+Advantage&gs_l=hp.12...32499.32499.1.33197.1.1.0.0.0.0.330.330.3-1.1.0.les%3Bcpsugrpq2..0.0...1.2.zlJ-XISuQXE&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
 
 
 ### development-and-trade-empirical-evidence
 
-- Gallup, Sachs, Mellinger's “Geography and Economic Development”  ---->  https://www.google.com/search?q=%E2%80%A2+Gallup%2C+Sachs%2C+Mellinger%3A+%E2%80%9CGeography+and+Economic+Development%E2%80%9D&oq=%E2%80%A2+Gallup%2C+Sachs%2C+Mellinger%3A+%E2%80%9CGeography+and+Economic+Development%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8
-- Weil, David's “  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Weil%2C+David%27s+%E2%80%9CEconomic+Growth+3rd+Edition%E2%80%9D
-- ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Wacziarg+and+Welch%27s+%E2%80%9CTrade+Liberatization+and+Growth%3A+New+Evidence%E2%80%9D
-- Wacziarg and Welch's “Trade Liberatization and Growth: New Evidence”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Feyrer%27s+%E2%80%9CDistance%2C+%22Trade+and+Income%3A+The+1967-1975+Closing+of+the+Suez+Canal+as+a+Natural+Experiment%E2%80%9D
-- Feyrer's “Distance, "Trade and Income: The 1967-1975 Closing of the Suez Canal as a Natural Experiment”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Eaton+and+Kortum%27s+%E2%80%9CTrade+in+Ideas%3A+Patenting+and+Productivity+in+the+OECD%E2%80%9D
-- Eaton and Kortum's “Trade in Ideas: Patenting and Productivity in the OECD”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Acharya+and+Keller%27s+%22Technology+Transfer+Through+Imports%22
+- Gallup, Sachs, Mellinger's Â“Geography and Economic DevelopmentÂ”  ---->  https://www.google.com/search?q=%E2%80%A2+Gallup%2C+Sachs%2C+Mellinger%3A+%E2%80%9CGeography+and+Economic+Development%E2%80%9D&oq=%E2%80%A2+Gallup%2C+Sachs%2C+Mellinger%3A+%E2%80%9CGeography+and+Economic+Development%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8
+- Weil, David's Â“  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Weil%2C+David%27s+%E2%80%9CEconomic+Growth+3rd+Edition%E2%80%9D
+- Â”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Wacziarg+and+Welch%27s+%E2%80%9CTrade+Liberatization+and+Growth%3A+New+Evidence%E2%80%9D
+- Wacziarg and Welch's Â“Trade Liberatization and Growth: New EvidenceÂ”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Feyrer%27s+%E2%80%9CDistance%2C+%22Trade+and+Income%3A+The+1967-1975+Closing+of+the+Suez+Canal+as+a+Natural+Experiment%E2%80%9D
+- Feyrer's Â“Distance, "Trade and Income: The 1967-1975 Closing of the Suez Canal as a Natural ExperimentÂ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Eaton+and+Kortum%27s+%E2%80%9CTrade+in+Ideas%3A+Patenting+and+Productivity+in+the+OECD%E2%80%9D
+- Eaton and Kortum's Â“Trade in Ideas: Patenting and Productivity in the OECDÂ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Acharya+and+Keller%27s+%22Technology+Transfer+Through+Imports%22
 
 
 ### trade-and-tariff-history
 
-- Michael Clemens and Jeffrey Williamson's “Why Did the Tariff-Growth Correlation Reverse after 1950?”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Michael+Clemens+and+Jeffrey+Williamson%27s+%E2%80%9CWhy+Did+the+Tariff-Growth+Correlation+Reverse+after+1950%3F%E2%80%9D
-- World Trade organization website — annual reports  ---->  https://www.wto.org/english/res_e/reser_e/annual_report_e.htm
+- Michael Clemens and Jeffrey Williamson's Â“Why Did the Tariff-Growth Correlation Reverse after 1950?Â”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Michael+Clemens+and+Jeffrey+Williamson%27s+%E2%80%9CWhy+Did+the+Tariff-Growth+Correlation+Reverse+after+1950%3F%E2%80%9D
+- World Trade organization website Â— annual reports  ---->  https://www.wto.org/english/res_e/reser_e/annual_report_e.htm
 
 
 ### trade-and-poverty-india-0
 
-- Cain, Hasan, and Mitra's “Trade Liberalization and Poverty Reduction”   ---->  https://www.google.com/search?q=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&tbo=d&sclient=psy-ab&q=Cain%2C+Hasan%2C+and+Mitra:+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=Cain%2C+Hasan%2C+and+Mitra:+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&gs_l=serp.3...2071.2071.0.2305.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.0...1.1.9eOR3_L2KNY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=6b57c13ac597c98b&bpcl=38093640&biw=1280&bih=794
-- Bhagwati and Panagariya's “India’s Reforms”  ---->  https://www.google.com/search?ei=5PQZXfuLMYK5tAbPl674BA&q=Bhagwati+and+Panagariya%27s+%E2%80%9CIndia%E2%80%99s+Reforms%E2%80%9D&oq=Bhagwati+and+Panagariya%27s+%E2%80%9CIndia%E2%80%99s+Reforms%E2%80%9D&gs_l=psy-ab.3...63203.63203..63427...0.0..0.169.169.0j1......0....2j1..gws-wiz.NSGhIGOBx8o
+- Cain, Hasan, and Mitra's Â“Trade Liberalization and Poverty ReductionÂ”   ---->  https://www.google.com/search?q=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&tbo=d&sclient=psy-ab&q=Cain%2C+Hasan%2C+and+Mitra:+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=Cain%2C+Hasan%2C+and+Mitra:+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&gs_l=serp.3...2071.2071.0.2305.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.0...1.1.9eOR3_L2KNY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=6b57c13ac597c98b&bpcl=38093640&biw=1280&bih=794
+- Bhagwati and Panagariya's Â“IndiaÂ’s ReformsÂ”  ---->  https://www.google.com/search?ei=5PQZXfuLMYK5tAbPl674BA&q=Bhagwati+and+Panagariya%27s+%E2%80%9CIndia%E2%80%99s+Reforms%E2%80%9D&oq=Bhagwati+and+Panagariya%27s+%E2%80%9CIndia%E2%80%99s+Reforms%E2%80%9D&gs_l=psy-ab.3...63203.63203..63427...0.0..0.169.169.0j1......0....2j1..gws-wiz.NSGhIGOBx8o
 
 
 ### does-%E2%80%9Cfair-trade%E2%80%9D-help
 
-- Tyler Cowen's “  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Tyler+Cowen%27s+%E2%80%9CDiscover+your+inner+economist%E2%80%9D
-- ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Tyler+Cowen%27s+%E2%80%9CAn+Economist+Gets+Lunch%E2%80%9D
-- Tyler Cowen's “  ---->  https://en.wikipedia.org/wiki/Fair_trade_debate
-- ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Carimentrand+and+Ballet%3A+%E2%80%9CWhen+Fair+Trade+Increases+Unfairness%E2%80%9D
+- Tyler Cowen's Â“  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Tyler+Cowen%27s+%E2%80%9CDiscover+your+inner+economist%E2%80%9D
+- Â”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Tyler+Cowen%27s+%E2%80%9CAn+Economist+Gets+Lunch%E2%80%9D
+- Tyler Cowen's Â“  ---->  https://en.wikipedia.org/wiki/Fair_trade_debate
+- Â”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Carimentrand+and+Ballet%3A+%E2%80%9CWhen+Fair+Trade+Increases+Unfairness%E2%80%9D
 
 
 ### world-trade-organization
 
-- Andrew Rose: “Do We Really Know That the WTO Increases Trade?”  ---->  https://www.google.com/search?ei=UPYZXffuE7CE9PwP6eaH8Ak&q=Andrew+Rose%3A+%E2%80%9CDo+We+Really+Know+That+the+WTO+Increases+Trade%3F%E2%80%9D&oq=Andrew+Rose%3A+%E2%80%9CDo+We+Really+Know+That+the+WTO+Increases+Trade%3F%E2%80%9D&gs_l=psy-ab.3..0i30.2469.2469..2816...0.0..0.110.110.0j1......0....2j1..gws-wiz.gTmdZKwbeUI
+- Andrew Rose: Â“Do We Really Know That the WTO Increases Trade?Â”  ---->  https://www.google.com/search?ei=UPYZXffuE7CE9PwP6eaH8Ak&q=Andrew+Rose%3A+%E2%80%9CDo+We+Really+Know+That+the+WTO+Increases+Trade%3F%E2%80%9D&oq=Andrew+Rose%3A+%E2%80%9CDo+We+Really+Know+That+the+WTO+Increases+Trade%3F%E2%80%9D&gs_l=psy-ab.3..0i30.2469.2469..2816...0.0..0.110.110.0j1......0....2j1..gws-wiz.gTmdZKwbeUI
 
  </details> 
 
@@ -426,25 +428,25 @@
 ### property-rights-1-private-v-collective
 
 - The Xiaogang village story   ---->  http://www.china.org.cn/china/features/content_11778487.htm
-- Chad Raymond's “No Responsibility and No Rice: The Rise and Fall of the Agricultural Collectivization in Vietnam.”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Chad+Raymond:+No+Responsibility+and+No+Rice:+The+Rise+and+Fall+of+the+Agricultural+Collectivization+in+Vietnam.+Agricultural+History+82,+1+(2008)&sa=X&ei=YCehUI6oGpLE0AHMgoDQCA&ved=0CCkQgwM&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- Quy-Toan Do and Lakshmi Iyer: “Land Rights and Economic Development: Evidence from Vietnam”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Quy-Toan+Do+and+Lakshmi+Iyer:+%E2%80%9CLand+Rights+and+Economic+Development%3A+Evidence+from+Vietnam%E2%80%9D&oq=Quy-Toan+Do+and+Lakshmi+Iyer:+%E2%80%9CLand+Rights+and+Economic+Development%3A+Evidence+from+Vietnam%E2%80%9D&gs_l=hp.12...6818.6818.3.7874.1.1.0.0.0.0.286.286.2-1.1.0.les%3Bcpsugrpq2..0.0...1.1.DYJfvoVeFmY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Chad Raymond's Â“No Responsibility and No Rice: The Rise and Fall of the Agricultural Collectivization in Vietnam.Â”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Chad+Raymond:+No+Responsibility+and+No+Rice:+The+Rise+and+Fall+of+the+Agricultural+Collectivization+in+Vietnam.+Agricultural+History+82,+1+(2008)&sa=X&ei=YCehUI6oGpLE0AHMgoDQCA&ved=0CCkQgwM&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Quy-Toan Do and Lakshmi Iyer: Â“Land Rights and Economic Development: Evidence from VietnamÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Quy-Toan+Do+and+Lakshmi+Iyer:+%E2%80%9CLand+Rights+and+Economic+Development%3A+Evidence+from+Vietnam%E2%80%9D&oq=Quy-Toan+Do+and+Lakshmi+Iyer:+%E2%80%9CLand+Rights+and+Economic+Development%3A+Evidence+from+Vietnam%E2%80%9D&gs_l=hp.12...6818.6818.3.7874.1.1.0.0.0.0.286.286.2-1.1.0.les%3Bcpsugrpq2..0.0...1.1.DYJfvoVeFmY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
 - William Bradford, 1623: On Plymouth Plantation   ---->  http://press-pubs.uchicago.edu/founders/documents/v1ch16s1.html
 
 
 ### property-rights-2-titling
 
-- Hernando de soto's “  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Hernando+de+soto:+%E2%80%9CThe+Mystery+of+Capital%E2%80%9D&oq=Hernando+de+soto:+%E2%80%9CThe+Mystery+of+Capital%E2%80%9D&gs_l=hp.3..0l2j0i30l2.2170.2170.1.2524.1.1.0.0.0.0.328.328.3-1.1.0.les%3Bcpsugrpq2..0.0...1.1.fIU5tGNDuBo&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Erica+Field%27s++%E2%80%9CEntitled+to+Work:+Urban+Property+Rights+and+Labor+Supply+in+Peru&oq=Erica+Field%27s++%E2%80%9CEntitled+to+Work:+Urban+Property+Rights+and+Labor+Supply+in+Peru&gs_l=hp.3..0i30.2879.2879.3.3201.1.1.0.0.0.0.193.193.0j1.1.0.les%3Bcpsugrpq2..0.0...1.1.sdl6tuV894I&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- Erica Field's “Entitled to Work: Urban Property Rights and Labor Supply in Peru"   ---->  https://www.google.com/search?hl=en&tbo=d&q=Sebastian+Galiani+and+Ernesto+Schargrodsky:++Property+Rights+for+the+Poor:+Effect+of+Land+Titling&sa=X&ei=yyihUMKDOebG0AGu5oHoDA&ved=0CCkQgwM&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- Sebastian Galiani and Ernesto Schargrodsky's “Property Rights for the Poor: Effect of Land Titling”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dongwoo+Yoo+and+Richard+Steckel:+%E2%80%9CProperty+Rights+and+Financial+Development%3A+The+Legacy+of+Japanese+Colonial+Institutions&oq=Dongwoo+Yoo+and+Richard+Steckel:+%E2%80%9CProperty+Rights+and+Financial+Development%3A+The+Legacy+of+Japanese+Colonial+Institutions&gs_l=hp.3...80076.85299.7.85485.2.2.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.2...1.1j2.jnr3aViDndY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Hernando de soto's Â“  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Hernando+de+soto:+%E2%80%9CThe+Mystery+of+Capital%E2%80%9D&oq=Hernando+de+soto:+%E2%80%9CThe+Mystery+of+Capital%E2%80%9D&gs_l=hp.3..0l2j0i30l2.2170.2170.1.2524.1.1.0.0.0.0.328.328.3-1.1.0.les%3Bcpsugrpq2..0.0...1.1.fIU5tGNDuBo&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Â”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Erica+Field%27s++%E2%80%9CEntitled+to+Work:+Urban+Property+Rights+and+Labor+Supply+in+Peru&oq=Erica+Field%27s++%E2%80%9CEntitled+to+Work:+Urban+Property+Rights+and+Labor+Supply+in+Peru&gs_l=hp.3..0i30.2879.2879.3.3201.1.1.0.0.0.0.193.193.0j1.1.0.les%3Bcpsugrpq2..0.0...1.1.sdl6tuV894I&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Erica Field's Â“Entitled to Work: Urban Property Rights and Labor Supply in Peru"   ---->  https://www.google.com/search?hl=en&tbo=d&q=Sebastian+Galiani+and+Ernesto+Schargrodsky:++Property+Rights+for+the+Poor:+Effect+of+Land+Titling&sa=X&ei=yyihUMKDOebG0AGu5oHoDA&ved=0CCkQgwM&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Sebastian Galiani and Ernesto Schargrodsky's Â“Property Rights for the Poor: Effect of Land TitlingÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dongwoo+Yoo+and+Richard+Steckel:+%E2%80%9CProperty+Rights+and+Financial+Development%3A+The+Legacy+of+Japanese+Colonial+Institutions&oq=Dongwoo+Yoo+and+Richard+Steckel:+%E2%80%9CProperty+Rights+and+Financial+Development%3A+The+Legacy+of+Japanese+Colonial+Institutions&gs_l=hp.3...80076.85299.7.85485.2.2.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.2...1.1j2.jnr3aViDndY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
 
 
 ### property-rights-3-communal-property-enclosure-and-state
 
-- James C. Scott's “  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=James+C.+Scott+1998+%E2%80%9CSeeing+Like+a+State%E2%80%9D&oq=James+C.+Scott+1998+%E2%80%9CSeeing+Like+a+State%E2%80%9D&gs_l=hp.3...6493.6493.1.6694.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.0...1.1.LaQZ9rAR-BY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Donald+McCloskey.+1975+%E2%80%9CThe+Economics+of+Enclosure%E2%80%9D&oq=Donald+McCloskey.+1975+%E2%80%9CThe+Economics+of+Enclosure%E2%80%9D&gs_l=hp.3...91028.93261.2.93496.2.2.0.0.0.0.1171.1171.7-1.1.0.les%3Bcpsugrpq2..0.0...1.1j2.Ju5vE4CNyts&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
-- Donald McCloskey's “The Economics of Enclosure”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Robert+C.+Allen%27s+%E2%80%9CEnclosure+and+the+Yeoman%3A+The+Agricultural+Development+of+the+South+Midlands%22
-- Robert C. Allen's “  ---->  https://www.google.com/search?client=firefox-b-1-d&q=John-Laurent+Rosenthal%27s+%E2%80%9CThe+Fruits+of+Revolution%2C+Property+Rights%2C+Litigation+and+French+agriculture%22
+- James C. Scott's Â“  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=James+C.+Scott+1998+%E2%80%9CSeeing+Like+a+State%E2%80%9D&oq=James+C.+Scott+1998+%E2%80%9CSeeing+Like+a+State%E2%80%9D&gs_l=hp.3...6493.6493.1.6694.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.0...1.1.LaQZ9rAR-BY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Â”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Donald+McCloskey.+1975+%E2%80%9CThe+Economics+of+Enclosure%E2%80%9D&oq=Donald+McCloskey.+1975+%E2%80%9CThe+Economics+of+Enclosure%E2%80%9D&gs_l=hp.3...91028.93261.2.93496.2.2.0.0.0.0.1171.1171.7-1.1.0.les%3Bcpsugrpq2..0.0...1.1j2.Ju5vE4CNyts&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bpcl=38093640&biw=1280&bih=794&cad=h
+- Donald McCloskey's Â“The Economics of EnclosureÂ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Robert+C.+Allen%27s+%E2%80%9CEnclosure+and+the+Yeoman%3A+The+Agricultural+Development+of+the+South+Midlands%22
+- Robert C. Allen's Â“  ---->  https://www.google.com/search?client=firefox-b-1-d&q=John-Laurent+Rosenthal%27s+%E2%80%9CThe+Fruits+of+Revolution%2C+Property+Rights%2C+Litigation+and+French+agriculture%22
 - "   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Chih-ming+Ka%27s+%22Japanese+Colonialism+in+Taiwan%3A+%E2%80%9CLand%2C+Tenure%2C+Development+and+Dependency%22
 
  </details> 
@@ -457,67 +459,67 @@
 
 ### corruption-and-growth
 
-- “Corruption and Economic Growth” by Pak Hung Mo  ---->  http://conferences.wcfia.harvard.edu/sites/projects.iq.harvard.edu/files/gov2126/files/sdarticle-3.pdf
-- “Corruption and Growth” by Mauro   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CCorruption+and+Growth%E2%80%9D+by+Mauro&oq=%E2%80%9CCorruption+and+Growth%E2%80%9D+by+Mauro&gs_l=serp.12..0i22l2.79727.79727.0.80940.1.1.0.0.0.0.219.219.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.kG3YN3WeBIQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
-- “Corruption, Economic Growth, and Income Inequality in Africa” by Gyimah-Brempong  ---->  https://www.google.com/search?client=firefox-b-1-d&q=%E2%80%9CCorruption%2C+Economic+Growth%2C+and+Income+Inequality+in+Africa%E2%80%9D+by+Gyimah-Brempong
+- Â“Corruption and Economic GrowthÂ” by Pak Hung Mo  ---->  http://conferences.wcfia.harvard.edu/sites/projects.iq.harvard.edu/files/gov2126/files/sdarticle-3.pdf
+- Â“Corruption and GrowthÂ” by Mauro   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CCorruption+and+Growth%E2%80%9D+by+Mauro&oq=%E2%80%9CCorruption+and+Growth%E2%80%9D+by+Mauro&gs_l=serp.12..0i22l2.79727.79727.0.80940.1.1.0.0.0.0.219.219.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.kG3YN3WeBIQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
+- Â“Corruption, Economic Growth, and Income Inequality in AfricaÂ” by Gyimah-Brempong  ---->  https://www.google.com/search?client=firefox-b-1-d&q=%E2%80%9CCorruption%2C+Economic+Growth%2C+and+Income+Inequality+in+Africa%E2%80%9D+by+Gyimah-Brempong
 
 
 ### corruption-and-tech-transfer
 
 - Parente and Prescott's "Monopoly Rights: A Barrier to Riches"   ---->  https://www.minneapolisfed.org/research/sr/sr236.pdf
-- Zhang, Li, Li, and Zhou's “FDI Spillovers in an Emerging Market”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Zhang%2C+Li%2C+Li%2C+and+Zhou%27s+%E2%80%9CFDI+Spillovers+in+an+Emerging+Market%E2%80%9D
+- Zhang, Li, Li, and Zhou's Â“FDI Spillovers in an Emerging MarketÂ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Zhang%2C+Li%2C+Li%2C+and+Zhou%27s+%E2%80%9CFDI+Spillovers+in+an+Emerging+Market%E2%80%9D
 
 
 ### corruption-who-pays-and-how-much
 
-- Jakob Svensson's “Who Must Pay Brides and How Much?”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jakob+Svensson+%E2%80%9CWho+must+pay+brides+and+how+much%3F%E2%80%9D&oq=Jakob+Svensson+%E2%80%9CWho+must+pay+brides+and+how+much%3F%E2%80%9D&gs_l=serp.12...231970.231970.0.232724.1.1.0.0.0.0.169.169.0j1.1.0.les%3Bcpsugrpq2..0.0...1.2.CIz-bN6uBx8&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
-- Jennifer Hunt and Sonia Laszlo: “Bribery: Who Pays, Who Refuses, What are the Payoffs?”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jennifer+Hunt+and+Sonia+Laszlo%3A+%E2%80%9Cbribery%3A+who+pays%2C+who+refuses%2C+what+are+the+payoffs%3F%E2%80%9D&oq=Jennifer+Hunt+and+Sonia+Laszlo:+%E2%80%9Cbribery%3A+who+pays%2C+who+refuses%2C+what+are+the+payoffs%3F%E2%80%9D&gs_l=serp.12...48180.48180.0.49034.1.1.0.0.0.0.178.178.0j1.1.0.les%3Bcpsugrpq2..0.0...1.2.w44AUPYGMnY&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
+- Jakob Svensson's Â“Who Must Pay Brides and How Much?Â”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jakob+Svensson+%E2%80%9CWho+must+pay+brides+and+how+much%3F%E2%80%9D&oq=Jakob+Svensson+%E2%80%9CWho+must+pay+brides+and+how+much%3F%E2%80%9D&gs_l=serp.12...231970.231970.0.232724.1.1.0.0.0.0.169.169.0j1.1.0.les%3Bcpsugrpq2..0.0...1.2.CIz-bN6uBx8&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
+- Jennifer Hunt and Sonia Laszlo: Â“Bribery: Who Pays, Who Refuses, What are the Payoffs?Â”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jennifer+Hunt+and+Sonia+Laszlo%3A+%E2%80%9Cbribery%3A+who+pays%2C+who+refuses%2C+what+are+the+payoffs%3F%E2%80%9D&oq=Jennifer+Hunt+and+Sonia+Laszlo:+%E2%80%9Cbribery%3A+who+pays%2C+who+refuses%2C+what+are+the+payoffs%3F%E2%80%9D&gs_l=serp.12...48180.48180.0.49034.1.1.0.0.0.0.178.178.0j1.1.0.les%3Bcpsugrpq2..0.0...1.2.w44AUPYGMnY&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
 
 
 ### corruption-rent-seeking-and-multiple-equilibria
 
-- Murphy, Shleifer, and Vishny's “Why Rent Seeking is so Costly to Growth”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Murphy%2C+Shleifer%2C+and+Vishny+%E2%80%9Cwhy+rent+seeking+is+so+costly+to+growth%E2%80%9D&oq=Murphy%2C+Shleifer%2C+and+Vishny+%E2%80%9Cwhy+rent+seeking+is+so+costly+to+growth%E2%80%9D&gs_l=serp.12...303624.303624.1.304379.1.1.0.0.0.0.201.201.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.AuwiU73m4PQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
-- Murphy, Shleifer, and Vishny's “Why Rent Seeking is so Costly to Growth”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Murphy%2C+Shleifer%2C+and+Vishny+%E2%80%9Cwhy+rent+seeking+is+so+costly+to+growth%E2%80%9D&oq=Murphy%2C+Shleifer%2C+and+Vishny+%E2%80%9Cwhy+rent+seeking+is+so+costly+to+growth%E2%80%9D&gs_l=serp.12...303624.303624.1.304379.1.1.0.0.0.0.201.201.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.AuwiU73m4PQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
+- Murphy, Shleifer, and Vishny's Â“Why Rent Seeking is so Costly to GrowthÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Murphy%2C+Shleifer%2C+and+Vishny+%E2%80%9Cwhy+rent+seeking+is+so+costly+to+growth%E2%80%9D&oq=Murphy%2C+Shleifer%2C+and+Vishny+%E2%80%9Cwhy+rent+seeking+is+so+costly+to+growth%E2%80%9D&gs_l=serp.12...303624.303624.1.304379.1.1.0.0.0.0.201.201.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.AuwiU73m4PQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
+- Murphy, Shleifer, and Vishny's Â“Why Rent Seeking is so Costly to GrowthÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Murphy%2C+Shleifer%2C+and+Vishny+%E2%80%9Cwhy+rent+seeking+is+so+costly+to+growth%E2%80%9D&oq=Murphy%2C+Shleifer%2C+and+Vishny+%E2%80%9Cwhy+rent+seeking+is+so+costly+to+growth%E2%80%9D&gs_l=serp.12...303624.303624.1.304379.1.1.0.0.0.0.201.201.2-1.1.0.les%3Bcpsugrpq2..0.0...1.2.AuwiU73m4PQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
 
 
 ### corruption-and-without-theft
 
-- 1993 article by Andrei Shleifer and Robert W. Vishny “Corruption”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=1993+article+by+Andrei+Shleifer+and+Robert+W.+Vishny+%E2%80%9CCorruption%E2%80%9D
+- 1993 article by Andrei Shleifer and Robert W. Vishny Â“CorruptionÂ”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=1993+article+by+Andrei+Shleifer+and+Robert+W.+Vishny+%E2%80%9CCorruption%E2%80%9D
 
 
 ### tullock-paradox
 
-- “Tullock paradox” and “costs of rent-seeking”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=%E2%80%9CTullock+paradox%E2%80%9D+and+%E2%80%9Ccosts+of+rent-seeking%E2%80%9D
+- Â“Tullock paradoxÂ” and Â“costs of rent-seekingÂ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=%E2%80%9CTullock+paradox%E2%80%9D+and+%E2%80%9Ccosts+of+rent-seeking%E2%80%9D
 
 
 ### causes-corruption
 
-- Daniel Treisman: “The Causes of Corruption: A Cross-National Study”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Daniel+Treisman%3A+%E2%80%9CThe+Causes+of+Corruption%3A+A+Cross-National+Study%E2%80%9D
+- Daniel Treisman: Â“The Causes of Corruption: A Cross-National StudyÂ”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Daniel+Treisman%3A+%E2%80%9CThe+Causes+of+Corruption%3A+A+Cross-National+Study%E2%80%9D
 
 
 ### gender-and-corruption
 
-- Swamy, Knack, Lee, Azfar's “Gender and Corruption”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Swamy%2C+Knack%2C+Lee%2C+Azfar:+%E2%80%9CGender+and+Corruption%E2%80%9D&oq=Swamy%2C+Knack%2C+Lee%2C+Azfar:+%E2%80%9CGender+and+Corruption%E2%80%9D&gs_l=hp.12...520375.520375.5.520754.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.0...1.2.Mp4XH5byZ98&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
+- Swamy, Knack, Lee, Azfar's Â“Gender and CorruptionÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Swamy%2C+Knack%2C+Lee%2C+Azfar:+%E2%80%9CGender+and+Corruption%E2%80%9D&oq=Swamy%2C+Knack%2C+Lee%2C+Azfar:+%E2%80%9CGender+and+Corruption%E2%80%9D&gs_l=hp.12...520375.520375.5.520754.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.0...1.2.Mp4XH5byZ98&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
 
 
 ### corruption-justice-and-development
 
-- Katherine Boo's “  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Katherine+Boo%27s+%E2%80%9CBeyond+the+Beautiful+Forevers%E2%80%9D
+- Katherine Boo's Â“  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Katherine+Boo%27s+%E2%80%9CBeyond+the+Beautiful+Forevers%E2%80%9D
 
 
 ### corruption-and-parking-tickets
 
-- Raymond Fishman and Edward Miguel's “Corruption, Norms, and Legal Enforcement: Evidence From Diplomatic Parking Tickets”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Raymond+Fishman+and+Edward+Miguel%2C+%E2%80%9CCorruption%2C+norms%2C+and+legal+enforcement:+evidence+from+diplomatic+parking+tickets%E2%80%9D&oq=Raymond+Fishman+and+Edward+Miguel%2C+%E2%80%9CCorruption%2C+norms%2C+and+legal+enforcement:+evidence+from+diplomatic+parking+tickets%E2%80%9D&gs_l=hp.12...243857.243857.7.244501.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.1...1.2.eXZwhNyW5Yc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
+- Raymond Fishman and Edward Miguel's Â“Corruption, Norms, and Legal Enforcement: Evidence From Diplomatic Parking TicketsÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Raymond+Fishman+and+Edward+Miguel%2C+%E2%80%9CCorruption%2C+norms%2C+and+legal+enforcement:+evidence+from+diplomatic+parking+tickets%E2%80%9D&oq=Raymond+Fishman+and+Edward+Miguel%2C+%E2%80%9CCorruption%2C+norms%2C+and+legal+enforcement:+evidence+from+diplomatic+parking+tickets%E2%80%9D&gs_l=hp.12...243857.243857.7.244501.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.1...1.2.eXZwhNyW5Yc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
 
 
 ### indian-drivers
 
-- Bertrand and Djankov's “Obtaining a Driver’s License in India”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Bertrand+and+Djankov%27s+%E2%80%9CObtaining+a+Driver%E2%80%99s+License+in+India%E2%80%9D
+- Bertrand and Djankov's Â“Obtaining a DriverÂ’s License in IndiaÂ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Bertrand+and+Djankov%27s+%E2%80%9CObtaining+a+Driver%E2%80%99s+License+in+India%E2%80%9D
 
 
 ### corruption-and-public-sector-wages
 
-- “Corruption and the Rate of Temptation” by Caroline Van Rijckeghem and Beatrice Weder  ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=%E2%80%9CCorruption+and+the+Rate+of+Temptation%E2%80%9D+by+Caroline+van+rijckeghem+and+Beatrice+weder+(journal+of+development+economics)&oq=%E2%80%9CCorruption+and+the+Rate+of+Temptation%E2%80%9D+by+Caroline+van+rijckeghem+and+Beatrice+weder+(journal+of+development+economics)&gs_l=hp.12...43516.43516.0.44607.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.1...1.2.aR-wOAtDrpI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
+- Â“Corruption and the Rate of TemptationÂ” by Caroline Van Rijckeghem and Beatrice Weder  ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=%E2%80%9CCorruption+and+the+Rate+of+Temptation%E2%80%9D+by+Caroline+van+rijckeghem+and+Beatrice+weder+(journal+of+development+economics)&oq=%E2%80%9CCorruption+and+the+Rate+of+Temptation%E2%80%9D+by+Caroline+van+rijckeghem+and+Beatrice+weder+(journal+of+development+economics)&gs_l=hp.12...43516.43516.0.44607.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.1...1.2.aR-wOAtDrpI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=38625945&biw=1280&bih=794&cad=h
 
  </details> 
 
@@ -529,10 +531,10 @@
 
 ### finance-and-growth
 
-- Bob King and Russ Levin 1993: “Finance and growth: Schumpeter Might be Right”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Bob+King+and+Russ+Levin+1993%3A+%E2%80%9CFinance+and+growth%3A+Schumpeter+Might+be+Right%E2%80%9D
-- Rajan and Zingales, 1998 “Financial Dependence and Growth”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Rajan+and+Zingales%2C+1998+%E2%80%9CFinancial+Dependence+and+Growth%E2%80%9D&oq=Rajan+and+Zingales%2C+1998+%E2%80%9CFinancial+Dependence+and+Growth%E2%80%9D&gs_l=hp.12..0i30j0i8i30l2.35188.35188.2.35697.1.1.0.0.0.0.170.170.0j1.1.0.les%3B..0.0...1c.2.mmI37eNnwuM&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
-- La Porta, de Silanes, Shleifer, 2002, “Government Ownership of Banks”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=La+Porta%2C+de+Silanes%2C+Shleifer%2C+2002%2C+%E2%80%9CGovernment+Ownership+of+Banks%E2%80%9D&oq=La+Porta%2C+de+Silanes%2C+Shleifer%2C+2002%2C+%E2%80%9CGovernment+Ownership+of+Banks%E2%80%9D&gs_l=hp.12...23146.23146.3.23665.1.1.0.0.0.0.241.241.2-1.1.0.les%3B..0.0...1c.2.Ps4OUd1CmCw&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
-- Ross Levine, 2005, “Finance and Growth”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Ross+Levine%2C+2005%2C+%E2%80%9CFinance+and+Growth%E2%80%9D&oq=Ross+Levine%2C+2005%2C+%E2%80%9CFinance+and+Growth%E2%80%9D&gs_l=hp.12..0i8i30.31921.31921.4.32810.1.1.0.0.0.0.120.120.0j1.1.0.les%3B..0.0...1c.2.aHkm2A8lKfI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
+- Bob King and Russ Levin 1993: Â“Finance and growth: Schumpeter Might be RightÂ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Bob+King+and+Russ+Levin+1993%3A+%E2%80%9CFinance+and+growth%3A+Schumpeter+Might+be+Right%E2%80%9D
+- Rajan and Zingales, 1998 Â“Financial Dependence and GrowthÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Rajan+and+Zingales%2C+1998+%E2%80%9CFinancial+Dependence+and+Growth%E2%80%9D&oq=Rajan+and+Zingales%2C+1998+%E2%80%9CFinancial+Dependence+and+Growth%E2%80%9D&gs_l=hp.12..0i30j0i8i30l2.35188.35188.2.35697.1.1.0.0.0.0.170.170.0j1.1.0.les%3B..0.0...1c.2.mmI37eNnwuM&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
+- La Porta, de Silanes, Shleifer, 2002, Â“Government Ownership of BanksÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=La+Porta%2C+de+Silanes%2C+Shleifer%2C+2002%2C+%E2%80%9CGovernment+Ownership+of+Banks%E2%80%9D&oq=La+Porta%2C+de+Silanes%2C+Shleifer%2C+2002%2C+%E2%80%9CGovernment+Ownership+of+Banks%E2%80%9D&gs_l=hp.12...23146.23146.3.23665.1.1.0.0.0.0.241.241.2-1.1.0.les%3B..0.0...1c.2.Ps4OUd1CmCw&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
+- Ross Levine, 2005, Â“Finance and GrowthÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Ross+Levine%2C+2005%2C+%E2%80%9CFinance+and+Growth%E2%80%9D&oq=Ross+Levine%2C+2005%2C+%E2%80%9CFinance+and+Growth%E2%80%9D&gs_l=hp.12..0i8i30.31921.31921.4.32810.1.1.0.0.0.0.120.120.0j1.1.0.les%3B..0.0...1c.2.aHkm2A8lKfI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
 
 
 ### introduction-microfinance-portfolios-poor
@@ -547,8 +549,8 @@
 
 ### microcredit-evidence
 
-- Dan Karlan and Jonathan Zinman “Microcredit in Theory and Practice”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dan+Karlan+and+Jonathan+Zinman+%E2%80%9CMicrocredit+in+theory+and+practice%E2%80%9D&oq=Dan+Karlan+and+Jonathan+Zinman+%E2%80%9CMicrocredit+in+theory+and+practice%E2%80%9D&gs_l=serp.12...121569.121569.1.121950.1.1.0.0.0.0.133.133.0j1.1.0.les%3B..0.0...1c.2.O-VALheTg18&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
-- Banerjee, Duflo, Gennerster, and Kinnan “The Micracle of Microfinance?”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Banerjee%2C+Duflo%2C+Gennerster%2C+and+Kinnan+%E2%80%9CThe+micracle+of+microfinance%3F%E2%80%9D+&oq=Banerjee%2C+Duflo%2C+Gennerster%2C+and+Kinnan+%E2%80%9CThe+micracle+of+microfinance%3F%E2%80%9D+&gs_l=serp.12...43706.43706.2.44507.1.1.0.0.0.0.352.352.3-1.1.0.les%3B..0.0...1c.2.DMMVuT18rX0&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
+- Dan Karlan and Jonathan Zinman Â“Microcredit in Theory and PracticeÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dan+Karlan+and+Jonathan+Zinman+%E2%80%9CMicrocredit+in+theory+and+practice%E2%80%9D&oq=Dan+Karlan+and+Jonathan+Zinman+%E2%80%9CMicrocredit+in+theory+and+practice%E2%80%9D&gs_l=serp.12...121569.121569.1.121950.1.1.0.0.0.0.133.133.0j1.1.0.les%3B..0.0...1c.2.O-VALheTg18&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
+- Banerjee, Duflo, Gennerster, and Kinnan Â“The Micracle of Microfinance?Â”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Banerjee%2C+Duflo%2C+Gennerster%2C+and+Kinnan+%E2%80%9CThe+micracle+of+microfinance%3F%E2%80%9D+&oq=Banerjee%2C+Duflo%2C+Gennerster%2C+and+Kinnan+%E2%80%9CThe+micracle+of+microfinance%3F%E2%80%9D+&gs_l=serp.12...43706.43706.2.44507.1.1.0.0.0.0.352.352.3-1.1.0.les%3B..0.0...1c.2.DMMVuT18rX0&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=39650382&biw=1280&bih=750&cad=h
 
  </details> 
 
@@ -560,25 +562,25 @@
 
 ### earning-money
 
-- “The Economic Lives of the Poor,” Banerjee and Duflo   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=the+economic+lives+of+the+poor+Banerjee+and+Duflo&oq=the+economic+lives+of+the+poor+Banerjee+and+Duflo&gs_l=hp.12..0.20701.22106.2.22813.2.2.0.0.0.0.215.339.0j1j1.2.0.les%3Bcpsugrpq2high..0.0...1.1j2.Eo3tudWyhMQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
-- “  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&oq=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&gs_l=hp.12..0i13j0i8i13i30.27413.27413.3.28521.1.1.0.0.0.0.129.129.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.iACv0CTSptg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
-- ” by Banergee and Duflo   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CMarkets+and+Culture+Voices%E2%80%9D+by+Tyler+Cowen&oq=%E2%80%9CMarkets+and+Culture+Voices%E2%80%9D+by+Tyler+Cowen&gs_l=hp.12...26776.26776.4.27943.1.1.0.0.0.0.250.250.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.ay4atLWCENk&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“The Economic Lives of the Poor,Â” Banerjee and Duflo   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=the+economic+lives+of+the+poor+Banerjee+and+Duflo&oq=the+economic+lives+of+the+poor+Banerjee+and+Duflo&gs_l=hp.12..0.20701.22106.2.22813.2.2.0.0.0.0.215.339.0j1j1.2.0.les%3Bcpsugrpq2high..0.0...1.1j2.Eo3tudWyhMQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&oq=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&gs_l=hp.12..0i13j0i8i13i30.27413.27413.3.28521.1.1.0.0.0.0.129.129.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.iACv0CTSptg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â” by Banergee and Duflo   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CMarkets+and+Culture+Voices%E2%80%9D+by+Tyler+Cowen&oq=%E2%80%9CMarkets+and+Culture+Voices%E2%80%9D+by+Tyler+Cowen&gs_l=hp.12...26776.26776.4.27943.1.1.0.0.0.0.250.250.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.ay4atLWCENk&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### spending-money
 
-- “The Economic Lives of the Poor,” Banerjee and Duflo   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=the+economic+lives+of+the+poor+Banerjee+and+Duflo&oq=the+economic+lives+of+the+poor+Banerjee+and+Duflo&gs_l=hp.12..0.20701.22106.2.22813.2.2.0.0.0.0.215.339.0j1j1.2.0.les%3Bcpsugrpq2high..0.0...1.1j2.Eo3tudWyhMQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
-- “  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&oq=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&gs_l=hp.12..0i13j0i8i13i30.27413.27413.3.28521.1.1.0.0.0.0.129.129.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.iACv0CTSptg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“The Economic Lives of the Poor,Â” Banerjee and Duflo   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=the+economic+lives+of+the+poor+Banerjee+and+Duflo&oq=the+economic+lives+of+the+poor+Banerjee+and+Duflo&gs_l=hp.12..0.20701.22106.2.22813.2.2.0.0.0.0.215.339.0j1j1.2.0.les%3Bcpsugrpq2high..0.0...1.1j2.Eo3tudWyhMQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&oq=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&gs_l=hp.12..0i13j0i8i13i30.27413.27413.3.28521.1.1.0.0.0.0.129.129.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.iACv0CTSptg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### are-poor-overwhelmed
 
-- Charles Karelis “  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Charles+Karelis+%E2%80%9CThe+persistence+of+poverty%E2%80%9D&oq=Charles+Karelis+%E2%80%9CThe+persistence+of+poverty%E2%80%9D&gs_l=hp.12..0i30.490864.490864.5.491286.1.1.0.0.0.0.149.149.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.bCnfMDga7ik&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Charles Karelis Â“  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Charles+Karelis+%E2%80%9CThe+persistence+of+poverty%E2%80%9D&oq=Charles+Karelis+%E2%80%9CThe+persistence+of+poverty%E2%80%9D&gs_l=hp.12..0i30.490864.490864.5.491286.1.1.0.0.0.0.149.149.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.bCnfMDga7ik&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### amartyasen-2-%E2%80%9Cmissing-women%E2%80%9D
 
-- Anderson and Ray (2010) “Missing Women: Age and Disease”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Anderson+and+Ray+(2010)+%E2%80%9CMissing+Women:+Age+and+Disease%E2%80%9D&oq=Anderson+and+Ray+(2010)+%E2%80%9CMissing+Women:+Age+and+Disease%E2%80%9D&gs_l=hp.12...236467.236467.6.237383.1.1.0.0.0.0.107.107.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.QxaVXt0oVUQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Anderson and Ray (2010) Â“Missing Women: Age and DiseaseÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Anderson+and+Ray+(2010)+%E2%80%9CMissing+Women:+Age+and+Disease%E2%80%9D&oq=Anderson+and+Ray+(2010)+%E2%80%9CMissing+Women:+Age+and+Disease%E2%80%9D&gs_l=hp.12...236467.236467.6.237383.1.1.0.0.0.0.107.107.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.QxaVXt0oVUQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
 
  </details> 
 
@@ -590,24 +592,24 @@
 
 ### private-health-insurance
 
-- “  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&oq=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&gs_l=hp.12..0i13j0i8i13i30.27413.27413.3.28521.1.1.0.0.0.0.129.129.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.iACv0CTSptg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&oq=%E2%80%9CPoor+Economics%E2%80%9D+by+Banergee+and+Duflo&gs_l=hp.12..0i13j0i8i13i30.27413.27413.3.28521.1.1.0.0.0.0.129.129.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.iACv0CTSptg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### cholera-haiti
 
-- Deborah Sontag: “Global Failure on a Haitian Epidemic”   ---->  https://www.nytimes.com/2012/04/01/world/americas/haitis-cholera-outraced-the-experts-and-tainted-the-un.html
+- Deborah Sontag: Â“Global Failure on a Haitian EpidemicÂ”   ---->  https://www.nytimes.com/2012/04/01/world/americas/haitis-cholera-outraced-the-experts-and-tainted-the-un.html
 
 
 ### fighting-diarrhea
 
-- Alix Zwane and Michael Kremer “What Works in Fighting Diarrheal Disease?”   ---->  https://www.google.com/search?hl=en&tbo=d&spell=1&q=What+Works+in+Fighting+Diarrheal+Disease%3F&sa=X&ei=7rbQUPevL66H0QGvuYDYBw&ved=0CC8QvwUoAA&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
-- Hill, Kirkood, and Edmond, “Family and Community Practices that Promote Child Survival”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Hill%2C+Kirkood%2C+and+Edmond%2C+%E2%80%9CFamily+and+Community+Practices+that+Promote+Child+Survival%E2%80%9D&oq=Hill%2C+Kirkood%2C+and+Edmond%2C+%E2%80%9CFamily+and+Community+Practices+that+Promote+Child+Survival%E2%80%9D&gs_l=hp.12...74441.74441.11.74865.1.1.0.0.0.0.261.261.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.lJq4IxjbBtI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Alix Zwane and Michael Kremer Â“What Works in Fighting Diarrheal Disease?Â”   ---->  https://www.google.com/search?hl=en&tbo=d&spell=1&q=What+Works+in+Fighting+Diarrheal+Disease%3F&sa=X&ei=7rbQUPevL66H0QGvuYDYBw&ved=0CC8QvwUoAA&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- Hill, Kirkood, and Edmond, Â“Family and Community Practices that Promote Child SurvivalÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Hill%2C+Kirkood%2C+and+Edmond%2C+%E2%80%9CFamily+and+Community+Practices+that+Promote+Child+Survival%E2%80%9D&oq=Hill%2C+Kirkood%2C+and+Edmond%2C+%E2%80%9CFamily+and+Community+Practices+that+Promote+Child+Survival%E2%80%9D&gs_l=hp.12...74441.74441.11.74865.1.1.0.0.0.0.261.261.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.lJq4IxjbBtI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### what-do-about-hivaids
 
-- David Canning, “The economics of HIV/AIDS in low-income countries: the case for prevention”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+David+Canning%2C+%E2%80%9CThe+economics+of+HIV%2FAIDS+in+low-income+countries:+the+case+for+prevention%E2%80%9D++&oq=+David+Canning%2C+%E2%80%9CThe+economics+of+HIV%2FAIDS+in+low-income+countries:+the+case+for+prevention%E2%80%9D++&gs_l=hp.12...94741.94741.12.95092.1.1.0.0.0.0.107.107.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.gg92AFHvbOs&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
-- David Canning, “The economics of HIV/AIDS in low-income countries: the case for prevention”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+David+Canning%2C+%E2%80%9CThe+economics+of+HIV%2FAIDS+in+low-income+countries:+the+case+for+prevention%E2%80%9D++&oq=+David+Canning%2C+%E2%80%9CThe+economics+of+HIV%2FAIDS+in+low-income+countries:+the+case+for+prevention%E2%80%9D++&gs_l=hp.12...94741.94741.12.95092.1.1.0.0.0.0.107.107.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.gg92AFHvbOs&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- David Canning, Â“The economics of HIV/AIDS in low-income countries: the case for preventionÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+David+Canning%2C+%E2%80%9CThe+economics+of+HIV%2FAIDS+in+low-income+countries:+the+case+for+prevention%E2%80%9D++&oq=+David+Canning%2C+%E2%80%9CThe+economics+of+HIV%2FAIDS+in+low-income+countries:+the+case+for+prevention%E2%80%9D++&gs_l=hp.12...94741.94741.12.95092.1.1.0.0.0.0.107.107.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.gg92AFHvbOs&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
+- David Canning, Â“The economics of HIV/AIDS in low-income countries: the case for preventionÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+David+Canning%2C+%E2%80%9CThe+economics+of+HIV%2FAIDS+in+low-income+countries:+the+case+for+prevention%E2%80%9D++&oq=+David+Canning%2C+%E2%80%9CThe+economics+of+HIV%2FAIDS+in+low-income+countries:+the+case+for+prevention%E2%80%9D++&gs_l=hp.12...94741.94741.12.95092.1.1.0.0.0.0.107.107.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.gg92AFHvbOs&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.cWE&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### quality-medical-advice
@@ -625,26 +627,26 @@
 
 ### education-and-economic-growth
 
-- Hanushek and Woessmann: "The Role of School Improvement in Economic Development”   ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=+Hanushek+and+Woessmann:+The+Role+of+School+Improvement+in+Economic+Development%E2%80%9D+&oq=+Hanushek+and+Woessmann:+The+Role+of+School+Improvement+in+Economic+Development%E2%80%9D+&gs_l=hp.3...2004.2004.0.2435.1.1.0.0.0.0.106.106.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.mQ8g4_ozvBg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- Lant Pritchett: “Does Learning to Add Up Add Up?”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Lant+Pritchett:+%E2%80%9CDoes+Learning+to+Add+Up+Add+Up%3F%E2%80%9D+&oq=Lant+Pritchett:+%E2%80%9CDoes+Learning+to+Add+Up+Add+Up%3F%E2%80%9D+&gs_l=hp.12...25678.25678.1.26605.1.1.0.0.0.0.104.104.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.TE8lAihsTFA&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Hanushek and Woessmann: "The Role of School Improvement in Economic DevelopmentÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=+Hanushek+and+Woessmann:+The+Role+of+School+Improvement+in+Economic+Development%E2%80%9D+&oq=+Hanushek+and+Woessmann:+The+Role+of+School+Improvement+in+Economic+Development%E2%80%9D+&gs_l=hp.3...2004.2004.0.2435.1.1.0.0.0.0.106.106.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.mQ8g4_ozvBg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Lant Pritchett: Â“Does Learning to Add Up Add Up?Â”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Lant+Pritchett:+%E2%80%9CDoes+Learning+to+Add+Up+Add+Up%3F%E2%80%9D+&oq=Lant+Pritchett:+%E2%80%9CDoes+Learning+to+Add+Up+Add+Up%3F%E2%80%9D+&gs_l=hp.12...25678.25678.1.26605.1.1.0.0.0.0.104.104.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.TE8lAihsTFA&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### education-east-asia
 
-- Jandhyala Tilak, “Building Human Capital in East Asia: What Others Can Learn”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Jandhyala+Tilak%2C+%E2%80%9CBuilding+Human+Capital+in+East+Asia:+What+Others+Can+Learn%E2%80%9D+&oq=+Jandhyala+Tilak%2C+%E2%80%9CBuilding+Human+Capital+in+East+Asia:+What+Others+Can+Learn%E2%80%9D+&gs_l=hp.12...126930.126930.2.128076.1.1.0.0.0.0.220.220.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.7lh_qIaNOyI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- Jisoon Lee, “Education Policy in the Republic of Korea”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jisoon+Lee%2C+%E2%80%9CEducation+Policy+in+the+Republic+of+Korea%E2%80%9D&oq=Jisoon+Lee%2C+%E2%80%9CEducation+Policy+in+the+Republic+of+Korea%E2%80%9D&gs_l=hp.12...25994.25994.3.27041.1.1.0.0.0.0.112.112.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.bSZKaPxGA_o&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Jandhyala Tilak, Â“Building Human Capital in East Asia: What Others Can LearnÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Jandhyala+Tilak%2C+%E2%80%9CBuilding+Human+Capital+in+East+Asia:+What+Others+Can+Learn%E2%80%9D+&oq=+Jandhyala+Tilak%2C+%E2%80%9CBuilding+Human+Capital+in+East+Asia:+What+Others+Can+Learn%E2%80%9D+&gs_l=hp.12...126930.126930.2.128076.1.1.0.0.0.0.220.220.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.7lh_qIaNOyI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Jisoon Lee, Â“Education Policy in the Republic of KoreaÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jisoon+Lee%2C+%E2%80%9CEducation+Policy+in+the+Republic+of+Korea%E2%80%9D&oq=Jisoon+Lee%2C+%E2%80%9CEducation+Policy+in+the+Republic+of+Korea%E2%80%9D&gs_l=hp.12...25994.25994.3.27041.1.1.0.0.0.0.112.112.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.bSZKaPxGA_o&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### education-and-latin-growth
 
-- Hanushek and Woessmann “Schooling, Cognitive Skills and the Latin American Growth Puzzle”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Hanushek+and+Woessmann+%E2%80%9CSchooling%2C+Cognitive+Skills+and+the+Latin+American+Growth+Puzzle%E2%80%9D+&oq=+Hanushek+and+Woessmann+%E2%80%9CSchooling%2C+Cognitive+Skills+and+the+Latin+American+Growth+Puzzle%E2%80%9D+&gs_l=hp.12...198701.198701.4.199247.1.1.0.0.0.0.103.103.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.msKUYQR2ViM&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Hanushek and Woessmann Â“Schooling, Cognitive Skills and the Latin American Growth PuzzleÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Hanushek+and+Woessmann+%E2%80%9CSchooling%2C+Cognitive+Skills+and+the+Latin+American+Growth+Puzzle%E2%80%9D+&oq=+Hanushek+and+Woessmann+%E2%80%9CSchooling%2C+Cognitive+Skills+and+the+Latin+American+Growth+Puzzle%E2%80%9D+&gs_l=hp.12...198701.198701.4.199247.1.1.0.0.0.0.103.103.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.msKUYQR2ViM&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### private-education-india
 
-- Muralidharan and Kremer: Public and Private Schools in Rural India”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Muralidharan+and+Kremer:+Public+and+Private+Schools+in+Rural+India%E2%80%9D&oq=Muralidharan+and+Kremer:+Public+and+Private+Schools+in+Rural+India%E2%80%9D&gs_l=hp.12...186289.186289.5.187014.1.1.0.0.0.0.119.119.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.kYaYo2Ubp8U&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- Andrabi, Das, ad Khwaja, “Possibilities and Limits of Private Schooling in Pakistan”   ---->  https://www.google.com/search?hl=en&tbo=d&spell=1&q=Andrabi,+Das,+ad+Khawaja,+%E2%80%9CPossibilities+and+Limits+of+Private+Schooling+in+Pakistan%E2%80%9D&sa=X&ei=wKXlUO7-NMK-0AG86oDoBQ&ved=0CC8QBSgA&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- James Tooley “The Beautiful Tree”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=James+Tooley+%E2%80%9CThe+Beautiful+Tree%E2%80%9D&oq=James+Tooley+%E2%80%9CThe+Beautiful+Tree%E2%80%9D&gs_l=hp.12..0i30.44203.44203.7.47020.1.1.0.0.0.0.343.343.3-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.RAjSLK5PRl8&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Muralidharan and Kremer: Public and Private Schools in Rural IndiaÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Muralidharan+and+Kremer:+Public+and+Private+Schools+in+Rural+India%E2%80%9D&oq=Muralidharan+and+Kremer:+Public+and+Private+Schools+in+Rural+India%E2%80%9D&gs_l=hp.12...186289.186289.5.187014.1.1.0.0.0.0.119.119.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.kYaYo2Ubp8U&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Andrabi, Das, ad Khwaja, Â“Possibilities and Limits of Private Schooling in PakistanÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&spell=1&q=Andrabi,+Das,+ad+Khawaja,+%E2%80%9CPossibilities+and+Limits+of+Private+Schooling+in+Pakistan%E2%80%9D&sa=X&ei=wKXlUO7-NMK-0AG86oDoBQ&ved=0CC8QBSgA&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- James Tooley Â“The Beautiful TreeÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=James+Tooley+%E2%80%9CThe+Beautiful+Tree%E2%80%9D&oq=James+Tooley+%E2%80%9CThe+Beautiful+Tree%E2%80%9D&gs_l=hp.12..0i30.44203.44203.7.47020.1.1.0.0.0.0.343.343.3-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.RAjSLK5PRl8&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### teacher-attendance
@@ -661,24 +663,24 @@
 
 ### colonial-education-india
 
-- “Social Divisions and Public Goods Provisions”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Social+Divisions+and+Public+Goods+Provisions&sa=X&ei=LKrlUKC6AufC0QGgsIDwAg&ved=0CC4QgwM&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- “Determinants of Primary Schooling in British India”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CDeterminants+of+Primary+Schooling+in+British+India%E2%80%9D&oq=%E2%80%9CDeterminants+of+Primary+Schooling+in+British+India%E2%80%9D&gs_l=hp.12..0i30.31285.31285.2.37066.1.1.0.0.0.0.116.116.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.0LFsGIHajrc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- “Taxation and Educational Development”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CTaxation+and+Educational+Development%E2%80%9D&oq=%E2%80%9CTaxation+and+Educational+Development%E2%80%9D&gs_l=hp.12...27648.27648.3.28383.1.1.0.0.0.0.145.145.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.y_Y_U5CU90k&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Social Divisions and Public Goods ProvisionsÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Social+Divisions+and+Public+Goods+Provisions&sa=X&ei=LKrlUKC6AufC0QGgsIDwAg&ved=0CC4QgwM&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Determinants of Primary Schooling in British IndiaÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CDeterminants+of+Primary+Schooling+in+British+India%E2%80%9D&oq=%E2%80%9CDeterminants+of+Primary+Schooling+in+British+India%E2%80%9D&gs_l=hp.12..0i30.31285.31285.2.37066.1.1.0.0.0.0.116.116.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.0LFsGIHajrc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Taxation and Educational DevelopmentÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CTaxation+and+Educational+Development%E2%80%9D&oq=%E2%80%9CTaxation+and+Educational+Development%E2%80%9D&gs_l=hp.12...27648.27648.3.28383.1.1.0.0.0.0.145.145.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.y_Y_U5CU90k&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### parental-expectations-school
 
-- Trang Nguyen “Information, Role Models, and Perceived Returns to Education”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Trang+Nguyen+%E2%80%9CInformation%2C+Role+Models%2C+and+Perceived+Returns+to+Education%E2%80%9D&oq=Trang+Nguyen+%E2%80%9CInformation%2C+Role+Models%2C+and+Perceived+Returns+to+Education%E2%80%9D&gs_l=hp.12...162819.199424.4.200033.2.2.0.0.0.0.110.110.0j1.1.0.les%3Bcpsugrpq2high..0.1...1.1j2.rC5XH1ha7Zc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- Banerjee and Duflo, “  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Banerjee+and+Duflo%2C+%E2%80%9CPoor+Economics%E2%80%9D
+- Trang Nguyen Â“Information, Role Models, and Perceived Returns to EducationÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Trang+Nguyen+%E2%80%9CInformation%2C+Role+Models%2C+and+Perceived+Returns+to+Education%E2%80%9D&oq=Trang+Nguyen+%E2%80%9CInformation%2C+Role+Models%2C+and+Perceived+Returns+to+Education%E2%80%9D&gs_l=hp.12...162819.199424.4.200033.2.2.0.0.0.0.110.110.0j1.1.0.les%3Bcpsugrpq2high..0.1...1.1j2.rC5XH1ha7Zc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Banerjee and Duflo, Â“  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Banerjee+and+Duflo%2C+%E2%80%9CPoor+Economics%E2%80%9D
 
 
 ### quantity-vs-quality-children
 
-- Gary Becker “economic model of the family”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gary+Becker+%E2%80%9Ceconomic+model+of+the+family%E2%80%9D&oq=Gary+Becker+%E2%80%9Ceconomic+model+of+the+family%E2%80%9D&gs_l=hp.12...260098.260098.5.260801.1.1.0.0.0.0.155.155.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.1UXYlM37SuA&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- "Joshua Angrist children”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Joshua+Angrist+children&oq=Joshua+Angrist+children&gs_l=hp.3...3981.3981.7.4247.1.1.0.0.0.0.105.105.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.1.yWL2VvPEmvI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- “Nancy Qian one child policy”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Nancy+Qian+one+child+policy&oq=Nancy+Qian+one+child+policy&gs_l=hp.12..0.22769.22769.8.23521.1.1.0.0.0.0.167.167.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.XHtY793i2W8&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- “Montgomery Ghana number of children”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Montgomery+Ghana+number+of+children&sa=X&ei=jqzlUIbVOYXU0gH6yoCIDA&ved=0CC4QgwM&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- “Raylyan Oliver number of children”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Raylyan+Oliver+number+of+children&sa=X&ei=sKzlUObQFKKT0QHXxYGABQ&ved=0CC4QgwM&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Gary Becker Â“economic model of the familyÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gary+Becker+%E2%80%9Ceconomic+model+of+the+family%E2%80%9D&oq=Gary+Becker+%E2%80%9Ceconomic+model+of+the+family%E2%80%9D&gs_l=hp.12...260098.260098.5.260801.1.1.0.0.0.0.155.155.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.1UXYlM37SuA&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- "Joshua Angrist childrenÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Joshua+Angrist+children&oq=Joshua+Angrist+children&gs_l=hp.3...3981.3981.7.4247.1.1.0.0.0.0.105.105.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.1.yWL2VvPEmvI&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Nancy Qian one child policyÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Nancy+Qian+one+child+policy&oq=Nancy+Qian+one+child+policy&gs_l=hp.12..0.22769.22769.8.23521.1.1.0.0.0.0.167.167.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.XHtY793i2W8&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Montgomery Ghana number of childrenÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Montgomery+Ghana+number+of+children&sa=X&ei=jqzlUIbVOYXU0gH6yoCIDA&ved=0CC4QgwM&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Raylyan Oliver number of childrenÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Raylyan+Oliver+number+of+children&sa=X&ei=sKzlUObQFKKT0QHXxYGABQ&ved=0CC4QgwM&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### mobile-phones-and-literacy
@@ -704,10 +706,10 @@
 
 ### democracy-and-reforms
 
-- Giuliano, Mishra, and Spilimbergo: “Democracy and Reforms”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Giuliano%2C+Mishra%2C+and+Spilimbergo:+%E2%80%9CDemocracy+and+Reforms%E2%80%9D+&oq=+Giuliano%2C+Mishra%2C+and+Spilimbergo:+%E2%80%9CDemocracy+and+Reforms%E2%80%9D+&gs_l=hp.12...3806648.3806648.16.3807476.1.1.0.0.0.0.151.151.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.A5Q23rjLEO4&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Giuliano, Mishra, and Spilimbergo: Â“Democracy and ReformsÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Giuliano%2C+Mishra%2C+and+Spilimbergo:+%E2%80%9CDemocracy+and+Reforms%E2%80%9D+&oq=+Giuliano%2C+Mishra%2C+and+Spilimbergo:+%E2%80%9CDemocracy+and+Reforms%E2%80%9D+&gs_l=hp.12...3806648.3806648.16.3807476.1.1.0.0.0.0.151.151.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.A5Q23rjLEO4&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 - Torsten Persson: "Forms of Democracy"   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Torsten+Persson:+Forms+of+Democracy+&oq=+Torsten+Persson:+Forms+of+Democracy+&gs_l=hp.12...26321.26321.17.27114.1.1.0.0.0.0.108.108.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.sGNWpHvl29o&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 - Dan Rodrik: "Democracies pay higher wages"   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dan+Rodrik:+Democracies+pay+higher+wages%E2%80%9D&oq=Dan+Rodrik:+Democracies+pay+higher+wages%E2%80%9D&gs_l=hp.12..0i13i30.21933.21933.18.22716.1.1.0.0.0.0.135.135.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.3Okm1rjRC_Q&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- Gil Mulligan and Sala-i-Martin: “Do democracies have different public policies than nondemocracies?”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gil+Mulligan+and+Sala-i-Martin:+%E2%80%9CDo+democracies+have+different+public+policies+than+nondemocracies%3F%E2%80%9D&oq=Gil+Mulligan+and+Sala-i-Martin:+%E2%80%9CDo+democracies+have+different+public+policies+than+nondemocracies%3F%E2%80%9D&gs_l=hp.12...54459.54459.19.55514.1.1.0.0.0.0.286.286.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.WJPOxQx-nrQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Gil Mulligan and Sala-i-Martin: Â“Do democracies have different public policies than nondemocracies?Â”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gil+Mulligan+and+Sala-i-Martin:+%E2%80%9CDo+democracies+have+different+public+policies+than+nondemocracies%3F%E2%80%9D&oq=Gil+Mulligan+and+Sala-i-Martin:+%E2%80%9CDo+democracies+have+different+public+policies+than+nondemocracies%3F%E2%80%9D&gs_l=hp.12...54459.54459.19.55514.1.1.0.0.0.0.286.286.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.WJPOxQx-nrQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### theory-median-voter
@@ -718,19 +720,19 @@
 
 ### agenda-setter
 
-- Alexei V. Zakharov: “Spatial Voting Theory”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Alexei+V.+Zakharov+%E2%80%9CSpatial+voting+theory%E2%80%9D&oq=Alexei+V.+Zakharov+%E2%80%9CSpatial+voting+theory%E2%80%9D&gs_l=hp.12...224066.224066.22.224548.1.1.0.0.0.0.109.109.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.FJ1oiQrLzfc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- Dennis Mueler: “  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dennis+Mueler+%E2%80%9Cpublic+choice+III%E2%80%9D&oq=Dennis+Mueler+%E2%80%9Cpublic+choice+III%E2%80%9D&gs_l=hp.3..0i13i10i30j0i8i13i10i30j0i8i13i30.34315.34315.23.35110.1.1.0.0.0.0.112.112.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.ZoEuCG-OJg0&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Alexei V. Zakharov: Â“Spatial Voting TheoryÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Alexei+V.+Zakharov+%E2%80%9CSpatial+voting+theory%E2%80%9D&oq=Alexei+V.+Zakharov+%E2%80%9CSpatial+voting+theory%E2%80%9D&gs_l=hp.12...224066.224066.22.224548.1.1.0.0.0.0.109.109.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.FJ1oiQrLzfc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Dennis Mueler: Â“  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dennis+Mueler+%E2%80%9Cpublic+choice+III%E2%80%9D&oq=Dennis+Mueler+%E2%80%9Cpublic+choice+III%E2%80%9D&gs_l=hp.3..0i13i10i30j0i8i13i10i30j0i8i13i30.34315.34315.23.35110.1.1.0.0.0.0.112.112.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.ZoEuCG-OJg0&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### roving-and-stationary-bandits
 
-- Mancur Olson: "Dictatorship, Democracy, and Development”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Mancur+olson:+dictatorship%2C+democracy%2C+and+development%E2%80%9D&oq=Mancur+olson:+dictatorship%2C+democracy%2C+and+development%E2%80%9D&gs_l=hp.12..0j0i30l2j0i8i30.396921.396921.24.397352.1.1.0.0.0.0.140.140.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.Bda04KpI_E4&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- Mcguire and Olson: “The Economics of Autocracy and Majority Rule”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Mcguire+and+Olson%3A+%E2%80%9CThe+Economics+of+Autocracy+and+Majority+Rule%E2%80%9D
+- Mancur Olson: "Dictatorship, Democracy, and DevelopmentÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Mancur+olson:+dictatorship%2C+democracy%2C+and+development%E2%80%9D&oq=Mancur+olson:+dictatorship%2C+democracy%2C+and+development%E2%80%9D&gs_l=hp.12..0j0i30l2j0i8i30.396921.396921.24.397352.1.1.0.0.0.0.140.140.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.Bda04KpI_E4&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Mcguire and Olson: Â“The Economics of Autocracy and Majority RuleÂ”  ---->  https://www.google.com/search?client=firefox-b-1-d&q=Mcguire+and+Olson%3A+%E2%80%9CThe+Economics+of+Autocracy+and+Majority+Rule%E2%80%9D
 
 
 ### democracy-arab-world
 
-- Eric Chaney: "Democractice Change in the Arab World, Past and Present”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Eric+Chaney:+Democractice+change+in+the+arab+world%2C+past+and+present%E2%80%9D&oq=Eric+Chaney:+Democractice+change+in+the+arab+world%2C+past+and+present%E2%80%9D&gs_l=hp.12...124090.124090.25.124473.1.1.0.0.0.0.136.136.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.VLHtZMxwH-o&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Eric Chaney: "Democractice Change in the Arab World, Past and PresentÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Eric+Chaney:+Democractice+change+in+the+arab+world%2C+past+and+present%E2%80%9D&oq=Eric+Chaney:+Democractice+change+in+the+arab+world%2C+past+and+present%E2%80%9D&gs_l=hp.12...124090.124090.25.124473.1.1.0.0.0.0.136.136.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.VLHtZMxwH-o&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### african-borders-and-conflict
@@ -740,16 +742,16 @@
 
 ### will-china-democratize
 
-- Daron Acemoglu, Simon Johnson, James A. Robinson and Pierre Yared: “Income and Democracy”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Daron+Acemoglu%2C+Simon+Johnson%2C+James+A.+Robinson+and+Pierre+Yared%2C+%E2%80%9CIncome+and+Democracy%E2%80%9D&oq=Daron+Acemoglu%2C+Simon+Johnson%2C+James+A.+Robinson+and+Pierre+Yared%2C+%E2%80%9CIncome+and+Democracy%E2%80%9D&gs_l=hp.12..0i8i30.123323.123323.27.124570.1.1.0.0.0.0.113.113.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.uWgDqyXH63Q&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- Yo Liu and Dingding Chen: “Why China will Democratize”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Yo+Liu+and+Dingding+Chen+%E2%80%9CWhy+China+will+Democratize%E2%80%9D+&oq=+Yo+Liu+and+Dingding+Chen+%E2%80%9CWhy+China+will+Democratize%E2%80%9D+&gs_l=hp.12...24342.24342.28.25440.1.1.0.0.0.0.138.138.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.lhTgOHOge-M&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Daron Acemoglu, Simon Johnson, James A. Robinson and Pierre Yared: Â“Income and DemocracyÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Daron+Acemoglu%2C+Simon+Johnson%2C+James+A.+Robinson+and+Pierre+Yared%2C+%E2%80%9CIncome+and+Democracy%E2%80%9D&oq=Daron+Acemoglu%2C+Simon+Johnson%2C+James+A.+Robinson+and+Pierre+Yared%2C+%E2%80%9CIncome+and+Democracy%E2%80%9D&gs_l=hp.12..0i8i30.123323.123323.27.124570.1.1.0.0.0.0.113.113.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.uWgDqyXH63Q&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Yo Liu and Dingding Chen: Â“Why China will DemocratizeÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=+Yo+Liu+and+Dingding+Chen+%E2%80%9CWhy+China+will+Democratize%E2%80%9D+&oq=+Yo+Liu+and+Dingding+Chen+%E2%80%9CWhy+China+will+Democratize%E2%80%9D+&gs_l=hp.12...24342.24342.28.25440.1.1.0.0.0.0.138.138.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.lhTgOHOge-M&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### there-natural-resource-curse
 
-- Jeffrey Sachs and Andrew Warner: “Natural Resource Abundance and Economic Growth”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jeffrey+Sachs+and+Andrew+Warner+%E2%80%9Cnatural+resource+abundance+and+economic+growth%E2%80%9D&oq=Jeffrey+Sachs+and+Andrew+Warner+%E2%80%9Cnatural+resource+abundance+and+economic+growth%E2%80%9D&gs_l=serp.3..0i30.480760.480760.1.481241.1.1.0.0.0.0.135.135.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.CuY94tT6zwI&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=40096503&biw=1280&bih=750&cad=h
-- Jeffrey Frankel: “The Natural Resource Curse”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jeffrey+Frankel+%E2%80%9Cthe+natural+resource+curse%E2%80%9D&oq=Jeffrey+Frankel+%E2%80%9Cthe+natural+resource+curse%E2%80%9D&gs_l=serp.12..0i30.24185.24185.2.25201.1.1.0.0.0.0.101.101.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.r5Q4MCyFbf4&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=40096503&biw=1280&bih=750&cad=h
-- Charles Kenny: “What Resource Curse?”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Charles+Kenny+%E2%80%9Cwhat+resource+curse%3F%E2%80%9D&oq=Charles+Kenny+%E2%80%9Cwhat+resource+curse%3F%E2%80%9D&gs_l=serp.12..0i30.27883.27883.3.28487.1.1.0.0.0.0.109.109.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2._jG1iMiBg4c&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=40096503&biw=1280&bih=750&cad=h
-- Michael Ross: “The Oil Curse”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Michael+ross+%E2%80%9Cthe+oil+curse%E2%80%9D&oq=Michael+ross+%E2%80%9Cthe+oil+curse%E2%80%9D&gs_l=serp.12..0j0i30.27108.27108.4.27720.1.1.0.0.0.0.126.126.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.2GpgrI2yKxs&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=40096503&biw=1280&bih=750&cad=h
+- Jeffrey Sachs and Andrew Warner: Â“Natural Resource Abundance and Economic GrowthÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jeffrey+Sachs+and+Andrew+Warner+%E2%80%9Cnatural+resource+abundance+and+economic+growth%E2%80%9D&oq=Jeffrey+Sachs+and+Andrew+Warner+%E2%80%9Cnatural+resource+abundance+and+economic+growth%E2%80%9D&gs_l=serp.3..0i30.480760.480760.1.481241.1.1.0.0.0.0.135.135.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.CuY94tT6zwI&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=40096503&biw=1280&bih=750&cad=h
+- Jeffrey Frankel: Â“The Natural Resource CurseÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Jeffrey+Frankel+%E2%80%9Cthe+natural+resource+curse%E2%80%9D&oq=Jeffrey+Frankel+%E2%80%9Cthe+natural+resource+curse%E2%80%9D&gs_l=serp.12..0i30.24185.24185.2.25201.1.1.0.0.0.0.101.101.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.r5Q4MCyFbf4&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=40096503&biw=1280&bih=750&cad=h
+- Charles Kenny: Â“What Resource Curse?Â”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Charles+Kenny+%E2%80%9Cwhat+resource+curse%3F%E2%80%9D&oq=Charles+Kenny+%E2%80%9Cwhat+resource+curse%3F%E2%80%9D&gs_l=serp.12..0i30.27883.27883.3.28487.1.1.0.0.0.0.109.109.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2._jG1iMiBg4c&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=40096503&biw=1280&bih=750&cad=h
+- Michael Ross: Â“The Oil CurseÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Michael+ross+%E2%80%9Cthe+oil+curse%E2%80%9D&oq=Michael+ross+%E2%80%9Cthe+oil+curse%E2%80%9D&gs_l=serp.12..0j0i30.27108.27108.4.27720.1.1.0.0.0.0.126.126.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.2GpgrI2yKxs&psj=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=40096503&biw=1280&bih=750&cad=h
 
  </details> 
 
@@ -761,24 +763,24 @@
 
 ### basic-facts-about-migration
 
-- Gordon Hanson: “The economic Consequences of the international migration of labor”   ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Gordon+Hanson:+%E2%80%9CThe+economic+Consequences+of+the+international+migration+of+labor%E2%80%9D&oq=Gordon+Hanson:+%E2%80%9CThe+economic+Consequences+of+the+international+migration+of+labor%E2%80%9D&gs_l=hp.3...3653.3653.0.4254.1.1.0.0.0.0.155.155.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.LWyLVk48-5c&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
+- Gordon Hanson: Â“The economic Consequences of the international migration of laborÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=Gordon+Hanson:+%E2%80%9CThe+economic+Consequences+of+the+international+migration+of+labor%E2%80%9D&oq=Gordon+Hanson:+%E2%80%9CThe+economic+Consequences+of+the+international+migration+of+labor%E2%80%9D&gs_l=hp.3...3653.3653.0.4254.1.1.0.0.0.0.155.155.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.LWyLVk48-5c&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
 
 
 ### wage-gains-immigration
 
-- Michael Clemens: “Economics and Emigration”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Michael+Clemens:+%E2%80%9CEconomics+and+Emigration%E2%80%9D&oq=Michael+Clemens:+%E2%80%9CEconomics+and+Emigration%E2%80%9D&gs_l=hp.3..0i30.391297.391297.1.392144.1.1.0.0.0.0.215.215.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.ghuZJIZmITY&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
-- Gordon Hanson “The Economic Consequences of the International Migration of Labor”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gordon+Hanson+%E2%80%9CThe+Economic+Consequences+of+the+International+Migration+of+Labor%E2%80%9D&oq=Gordon+Hanson+%E2%80%9CThe+Economic+Consequences+of+the+International+Migration+of+Labor%E2%80%9D&gs_l=hp.12...79572.79572.2.80592.1.1.0.0.0.0.104.104.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2._fd5Dns4eZg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
-- “Lant Pritchett immigration”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Google+%E2%80%9CLant+Pritchett+immigration%E2%80%9D&oq=Google+%E2%80%9CLant+Pritchett+immigration%E2%80%9D&gs_l=hp.12...25929.25929.3.26931.1.1.0.0.0.0.187.187.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.PI8VRS6zywQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
+- Michael Clemens: Â“Economics and EmigrationÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Michael+Clemens:+%E2%80%9CEconomics+and+Emigration%E2%80%9D&oq=Michael+Clemens:+%E2%80%9CEconomics+and+Emigration%E2%80%9D&gs_l=hp.3..0i30.391297.391297.1.392144.1.1.0.0.0.0.215.215.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.ghuZJIZmITY&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
+- Gordon Hanson Â“The Economic Consequences of the International Migration of LaborÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gordon+Hanson+%E2%80%9CThe+Economic+Consequences+of+the+International+Migration+of+Labor%E2%80%9D&oq=Gordon+Hanson+%E2%80%9CThe+Economic+Consequences+of+the+International+Migration+of+Labor%E2%80%9D&gs_l=hp.12...79572.79572.2.80592.1.1.0.0.0.0.104.104.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2._fd5Dns4eZg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
+- Â“Lant Pritchett immigrationÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Google+%E2%80%9CLant+Pritchett+immigration%E2%80%9D&oq=Google+%E2%80%9CLant+Pritchett+immigration%E2%80%9D&gs_l=hp.12...25929.25929.3.26931.1.1.0.0.0.0.187.187.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.PI8VRS6zywQ&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
 
 
 ### remittances
 
-- Dan Yang: “Migrant Remittances”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dan+Yang:+%E2%80%9CMigrant+Remittances%E2%80%9D&oq=Dan+Yang:+%E2%80%9CMigrant+Remittances%E2%80%9D&gs_l=hp.12...382779.382779.4.383496.1.1.0.0.0.0.178.178.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.5YqddcsD_DU&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
+- Dan Yang: Â“Migrant RemittancesÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Dan+Yang:+%E2%80%9CMigrant+Remittances%E2%80%9D&oq=Dan+Yang:+%E2%80%9CMigrant+Remittances%E2%80%9D&gs_l=hp.12...382779.382779.4.383496.1.1.0.0.0.0.178.178.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.5YqddcsD_DU&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
 
 
 ### there-brain-drain
 
-- Gibson McKenzie “Brain Drain”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gibson+McKenzie+%E2%80%9CBrain+Drain%E2%80%9D+&oq=Gibson+McKenzie+%E2%80%9CBrain+Drain%E2%80%9D+&gs_l=hp.3..0i30.289304.292578.5.292829.2.2.0.0.0.0.166.272.0j2.2.0.les%3Bcpsugrpq2high..0.0...1.1j2.mOMugXKhtms&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
+- Gibson McKenzie Â“Brain DrainÂ”  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gibson+McKenzie+%E2%80%9CBrain+Drain%E2%80%9D+&oq=Gibson+McKenzie+%E2%80%9CBrain+Drain%E2%80%9D+&gs_l=hp.3..0i30.289304.292578.5.292829.2.2.0.0.0.0.166.272.0j2.2.0.les%3Bcpsugrpq2high..0.0...1.1j2.mOMugXKhtms&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmg&biw=1280&bih=750&cad=h
 
 
 ### wage-effects-us
@@ -786,13 +788,13 @@
 - George Borjas immigration   ---->  https://www.google.com/search?hl=en&tbo=d&output=search&sclient=psy-ab&q=George+Borjas+immigration&oq=George+Borjas+immigration&gs_l=hp.3..0l2j0i30l2.1717.1717.0.2117.1.1.0.0.0.0.126.126.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.qZU6xI-C-SU&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
 - David Card immigration  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=David+Card+immigration&oq=David+Card+immigration&gs_l=hp.3...21791.21791.1.21845.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2high..0.0...1.2.NPWat5-VIek&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
 - Giovanni Peri immigration   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Giovanni+Peri+immigration&oq=Giovanni+Peri+immigration&gs_l=hp.12..0j0i30j0i8i30l2.28584.28584.2.29472.1.1.0.0.0.0.119.119.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.dlgzjagcbHA&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
-- Gordon Hanson: “The Economic Consequences of the International Migration of Labor”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gordon+hanson+%E2%80%9Cthe+economic+consequences+of+the+international+migration+of+labor%E2%80%9D+&oq=Gordon+hanson+%E2%80%9Cthe+economic+consequences+of+the+international+migration+of+labor%E2%80%9D+&gs_l=hp.12...28150.28150.3.28955.1.1.0.0.0.0.114.114.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.uVuCf37Vldg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- Gordon Hanson: Â“The Economic Consequences of the International Migration of LaborÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Gordon+hanson+%E2%80%9Cthe+economic+consequences+of+the+international+migration+of+labor%E2%80%9D+&oq=Gordon+hanson+%E2%80%9Cthe+economic+consequences+of+the+international+migration+of+labor%E2%80%9D+&gs_l=hp.12...28150.28150.3.28955.1.1.0.0.0.0.114.114.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.uVuCf37Vldg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
 
 
 ### internal-chinese-migration
 
-- “China internal migration”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9Cchina+internal+migration%E2%80%9D&oq=%E2%80%9Cchina+internal+migration%E2%80%9D&gs_l=hp.12..0l3j0i30.200007.200007.4.200479.1.1.0.0.0.0.112.112.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.ewhp-_tUVRg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
-- Kevin Zhang and Shunfeng Song “Rural Urban Migration and Urbanization in China”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Kevin+Zhang+and+Shunfeng+Song+%E2%80%9CRural+urban+migration+and+urbanization+in+China%E2%80%9D&oq=Kevin+Zhang+and+Shunfeng+Song+%E2%80%9CRural+urban+migration+and+urbanization+in+China%E2%80%9D&gs_l=hp.12...54719.54719.5.55369.1.1.0.0.0.0.113.113.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.f2nFD-eprWs&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- Â“China internal migrationÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9Cchina+internal+migration%E2%80%9D&oq=%E2%80%9Cchina+internal+migration%E2%80%9D&gs_l=hp.12..0l3j0i30.200007.200007.4.200479.1.1.0.0.0.0.112.112.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.ewhp-_tUVRg&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- Kevin Zhang and Shunfeng Song Â“Rural Urban Migration and Urbanization in ChinaÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Kevin+Zhang+and+Shunfeng+Song+%E2%80%9CRural+urban+migration+and+urbanization+in+China%E2%80%9D&oq=Kevin+Zhang+and+Shunfeng+Song+%E2%80%9CRural+urban+migration+and+urbanization+in+China%E2%80%9D&gs_l=hp.12...54719.54719.5.55369.1.1.0.0.0.0.113.113.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.f2nFD-eprWs&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
 
  </details> 
 
@@ -804,26 +806,26 @@
 
 ### demographic-transitions
 
-- Ronald Lee: “The Demographic Transiton: Three Centuries of Fundamental Change”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Ronald+Lee+%E2%80%9CThe+demographic+transiton:+three+centuries+of+fundamental+change%E2%80%9D&oq=Ronald+Lee+%E2%80%9CThe+demographic+transiton:+three+centuries+of+fundamental+change%E2%80%9D&gs_l=hp.3..0i13i30j0i8i13i30.183771.183771.6.184611.1.1.0.0.0.0.205.205.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.bh8fVHs8xLE&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
-- David Lam: “The Demography of Youth in Developing Countries”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=David+Lam+%E2%80%9CThe+Demography+of+Youth+in+developing+countries%E2%80%9D&oq=David+Lam+%E2%80%9CThe+Demography+of+Youth+in+developing+countries%E2%80%9D&gs_l=hp.12...24558.24558.7.25079.1.1.0.0.0.0.516.516.5-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.mVkd4rS_hJ4&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- Ronald Lee: Â“The Demographic Transiton: Three Centuries of Fundamental ChangeÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Ronald+Lee+%E2%80%9CThe+demographic+transiton:+three+centuries+of+fundamental+change%E2%80%9D&oq=Ronald+Lee+%E2%80%9CThe+demographic+transiton:+three+centuries+of+fundamental+change%E2%80%9D&gs_l=hp.3..0i13i30j0i8i13i30.183771.183771.6.184611.1.1.0.0.0.0.205.205.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.bh8fVHs8xLE&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- David Lam: Â“The Demography of Youth in Developing CountriesÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=David+Lam+%E2%80%9CThe+Demography+of+Youth+in+developing+countries%E2%80%9D&oq=David+Lam+%E2%80%9CThe+Demography+of+Youth+in+developing+countries%E2%80%9D&gs_l=hp.12...24558.24558.7.25079.1.1.0.0.0.0.516.516.5-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.mVkd4rS_hJ4&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
 
 
 ### population-and-economic-growth
 
-- David Bloom: “  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=David+Bloom:+%E2%80%9CThe+Demographic+Divident%E2%80%9D&oq=David+Bloom:+%E2%80%9CThe+Demographic+Divident%E2%80%9D&gs_l=hp.3...279083.279083.8.279842.1.1.0.0.0.0.274.274.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.BMvabX8z31w&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
-- ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Julian+Simon+%E2%80%9CThe+Ultimate+Resource%E2%80%9D&oq=Julian+Simon+%E2%80%9CThe+Ultimate+Resource%E2%80%9D&gs_l=hp.3..0l2j0i30l2.22487.22487.9.23178.1.1.0.0.0.0.336.336.3-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.fYnp1fxlRPo&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- David Bloom: Â“  ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=David+Bloom:+%E2%80%9CThe+Demographic+Divident%E2%80%9D&oq=David+Bloom:+%E2%80%9CThe+Demographic+Divident%E2%80%9D&gs_l=hp.3...279083.279083.8.279842.1.1.0.0.0.0.274.274.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.BMvabX8z31w&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- Â”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Julian+Simon+%E2%80%9CThe+Ultimate+Resource%E2%80%9D&oq=Julian+Simon+%E2%80%9CThe+Ultimate+Resource%E2%80%9D&gs_l=hp.3..0l2j0i30l2.22487.22487.9.23178.1.1.0.0.0.0.336.336.3-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.fYnp1fxlRPo&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
 
 
 ### malthusian-argument
 
-- “Thomas Robert Malthus”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CThomas+Robert+Malthus%E2%80%9D&oq=%E2%80%9CThomas+Robert+Malthus%E2%80%9D&gs_l=hp.12..0l4.127996.127996.10.128803.1.1.0.0.0.0.126.126.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.2_BPtbrP6Rs&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
-- “Charles Kenny Malthusian trap”  ---->  https://www.google.com/search?hl=en&biw=1280&bih=656&ei=9hUaXeSMCoXStQbhoJLgCw&q=%E2%80%9CCharles+Kenny+Malthusian+trap%E2%80%9D&oq=%E2%80%9CCharles+Kenny+Malthusian+trap%E2%80%9D&gs_l=psy-ab.3...55697.55697..55932...0.0..0.164.164.0j1......0....2j1..gws-wiz.Q-eKD8vnGSs
+- Â“Thomas Robert MalthusÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CThomas+Robert+Malthus%E2%80%9D&oq=%E2%80%9CThomas+Robert+Malthus%E2%80%9D&gs_l=hp.12..0l4.127996.127996.10.128803.1.1.0.0.0.0.126.126.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.2_BPtbrP6Rs&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- Â“Charles Kenny Malthusian trapÂ”  ---->  https://www.google.com/search?hl=en&biw=1280&bih=656&ei=9hUaXeSMCoXStQbhoJLgCw&q=%E2%80%9CCharles+Kenny+Malthusian+trap%E2%80%9D&oq=%E2%80%9CCharles+Kenny+Malthusian+trap%E2%80%9D&gs_l=psy-ab.3...55697.55697..55932...0.0..0.164.164.0j1......0....2j1..gws-wiz.Q-eKD8vnGSs
 
 
 ### african-demographic-dividend
 
-- Alwyn Young: “The African Growth Miracle”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Alwyn+Young:+%E2%80%9CThe+African+Growth+Miracle%E2%80%9D&oq=Alwyn+Young:+%E2%80%9CThe+African+Growth+Miracle%E2%80%9D&gs_l=hp.12..0i30.278052.278052.11.278834.1.1.0.0.0.0.292.292.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.BGNBFYrdJjM&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
-- Michael Lipton: “Income and Work: The Food-Population-Resource Crisis in Short Africa”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Michael+Lipton:+%E2%80%9CIncome+and+work%3A+the+food-population-resource+crisis+in+short+Africa%E2%80%9D&oq=Michael+Lipton:+%E2%80%9CIncome+and+work%3A+the+food-population-resource+crisis+in+short+Africa%E2%80%9D&gs_l=hp.12...72811.72811.12.74171.1.1.0.0.0.0.202.202.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.yQlzrOHVmos&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- Alwyn Young: Â“The African Growth MiracleÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Alwyn+Young:+%E2%80%9CThe+African+Growth+Miracle%E2%80%9D&oq=Alwyn+Young:+%E2%80%9CThe+African+Growth+Miracle%E2%80%9D&gs_l=hp.12..0i30.278052.278052.11.278834.1.1.0.0.0.0.292.292.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.BGNBFYrdJjM&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
+- Michael Lipton: Â“Income and Work: The Food-Population-Resource Crisis in Short AfricaÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=Michael+Lipton:+%E2%80%9CIncome+and+work%3A+the+food-population-resource+crisis+in+short+Africa%E2%80%9D&oq=Michael+Lipton:+%E2%80%9CIncome+and+work%3A+the+food-population-resource+crisis+in+short+Africa%E2%80%9D&gs_l=hp.12...72811.72811.12.74171.1.1.0.0.0.0.202.202.2-1.1.0.les%3Bcpsugrpq2high..0.0...1.2.yQlzrOHVmos&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1357316858,d.dmQ&biw=1280&bih=750&cad=h
 
 
 ### temperature-and-growth
@@ -876,9 +878,9 @@
 
 ### education-colonial-india
 
-- “Social Divisions and Public Goods Provisions”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Social+Divisions+and+Public+Goods+Provisions&sa=X&ei=LKrlUKC6AufC0QGgsIDwAg&ved=0CC4QgwM&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- “Determinants of Primary Schooling in British India”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CDeterminants+of+Primary+Schooling+in+British+India%E2%80%9D&oq=%E2%80%9CDeterminants+of+Primary+Schooling+in+British+India%E2%80%9D&gs_l=hp.12..0i30.31285.31285.2.37066.1.1.0.0.0.0.116.116.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.0LFsGIHajrc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
-- “Taxation and Educational Development”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CTaxation+and+Educational+Development%E2%80%9D&oq=%E2%80%9CTaxation+and+Educational+Development%E2%80%9D&gs_l=hp.12...27648.27648.3.28383.1.1.0.0.0.0.145.145.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.y_Y_U5CU90k&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Social Divisions and Public Goods ProvisionsÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&q=Social+Divisions+and+Public+Goods+Provisions&sa=X&ei=LKrlUKC6AufC0QGgsIDwAg&ved=0CC4QgwM&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Determinants of Primary Schooling in British IndiaÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CDeterminants+of+Primary+Schooling+in+British+India%E2%80%9D&oq=%E2%80%9CDeterminants+of+Primary+Schooling+in+British+India%E2%80%9D&gs_l=hp.12..0i30.31285.31285.2.37066.1.1.0.0.0.0.116.116.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.0LFsGIHajrc&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
+- Â“Taxation and Educational DevelopmentÂ”   ---->  https://www.google.com/search?hl=en&tbo=d&sclient=psy-ab&q=%E2%80%9CTaxation+and+Educational+Development%E2%80%9D&oq=%E2%80%9CTaxation+and+Educational+Development%E2%80%9D&gs_l=hp.12...27648.27648.3.28383.1.1.0.0.0.0.145.145.0j1.1.0.les%3Bcpsugrpq2high..0.0...1.2.y_Y_U5CU90k&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bvm=bv.1355534169,d.dmQ&bpcl=40096503&biw=1280&bih=750&cad=h
 
 
 ### railroads-and-colonial-india
@@ -925,8 +927,8 @@
 
 ### trade-and-poverty-india
 
-- Cain, Hasan, and Mitra's “Trade Liberalization and Poverty Reduction”  ---->  https://www.google.com/search?q=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&tbo=d&sclient=psy-ab&q=Cain%2C+Hasan%2C+and+Mitra:+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=Cain%2C+Hasan%2C+and+Mitra:+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&gs_l=serp.3...2071.2071.0.2305.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.0...1.1.9eOR3_L2KNY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=6b57c13ac597c98b&bpcl=38093640&biw=1280&bih=794
-- Bhagwati and Panagariya's “India’s Reforms”   ---->  https://www.google.com/search?q=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&tbo=d&sclient=psy-ab&q=Bhagwati+and+Panagariya:+%E2%80%9CIndia%E2%80%99s+Reforms%E2%80%9D&oq=Bhagwati+and+Panagariya:+%E2%80%9CIndia%E2%80%99s+Reforms%E2%80%9D&gs_l=serp.3...27774.30298.1.30533.2.2.0.0.0.0.162.287.0j2.2.0.les%3Bcpsugrpq2..0.0...1.1j2.meqqdPneGK0&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=6b57c13ac597c98b&bpcl=38093640&biw=1280&bih=794
+- Cain, Hasan, and Mitra's Â“Trade Liberalization and Poverty ReductionÂ”  ---->  https://www.google.com/search?q=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&tbo=d&sclient=psy-ab&q=Cain%2C+Hasan%2C+and+Mitra:+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=Cain%2C+Hasan%2C+and+Mitra:+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&gs_l=serp.3...2071.2071.0.2305.1.1.0.0.0.0.0.0..0.0.les%3Bcpsugrpq2..0.0...1.1.9eOR3_L2KNY&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=6b57c13ac597c98b&bpcl=38093640&biw=1280&bih=794
+- Bhagwati and Panagariya's Â“IndiaÂ’s ReformsÂ”   ---->  https://www.google.com/search?q=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&oq=%E2%80%A2+Cain%2C+Hasan%2C+and+Mitra%3A+%E2%80%9CTrade+Liberalization+and+Poverty+Reduction%E2%80%9D&sugexp=chrome,mod=0&sourceid=chrome&ie=UTF-8#hl=en&tbo=d&sclient=psy-ab&q=Bhagwati+and+Panagariya:+%E2%80%9CIndia%E2%80%99s+Reforms%E2%80%9D&oq=Bhagwati+and+Panagariya:+%E2%80%9CIndia%E2%80%99s+Reforms%E2%80%9D&gs_l=serp.3...27774.30298.1.30533.2.2.0.0.0.0.162.287.0j2.2.0.les%3Bcpsugrpq2..0.0...1.1j2.meqqdPneGK0&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&fp=6b57c13ac597c98b&bpcl=38093640&biw=1280&bih=794
 
 
 ### agriculture-india
@@ -1015,7 +1017,7 @@
 
 ### corruption-driver%E2%80%99s-licenses
 
-- Bertrand and Djankov's “Obtaining a Driver’s License in India”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Bertrand+and+Djankov%27s+%E2%80%9CObtaining+a+Driver%E2%80%99s+License+in+India%E2%80%9D
+- Bertrand and Djankov's Â“Obtaining a DriverÂ’s License in IndiaÂ”   ---->  https://www.google.com/search?client=firefox-b-1-d&q=Bertrand+and+Djankov%27s+%E2%80%9CObtaining+a+Driver%E2%80%99s+License+in+India%E2%80%9D
 
 
 ### testing-cream-skimming-india
