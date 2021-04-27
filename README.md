@@ -1,6 +1,7 @@
 # Development Economics Course Links
 
-A summary of the links posted for the development economics course at https://mru.org/development-economics
+A summary of the links (to papers, graphs, blogs etc!) posted for the development economics course at https://mru.org/development-economics
+
 
 ## Introduction
 
